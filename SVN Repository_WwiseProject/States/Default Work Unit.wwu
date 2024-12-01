@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{15D1F8D2-C49F-4435-8AC2-BB89AAB92B43}" SchemaVersion="119">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{15D1F8D2-C49F-4435-8AC2-BB89AAB92B43}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Music" ID="{04D49800-45BC-42B8-875F-1B17F6E83D75}">
+					<ChildrenList>
+						<State Name="None" ID="{64CE85EC-6CF6-443D-8E48-0B954F2658D3}"/>
+						<State Name="PlayerDeath" ID="{FAA95573-1EB4-44AA-9AAA-1A8F925E9256}"/>
+						<State Name="PlayerVictory" ID="{1435AB7E-AC32-4052-80F7-E06A13B308D6}"/>
+						<State Name="Explore" ID="{DD9F1E2D-204B-4F9C-B241-8B6DB8C3EAD1}"/>
+						<State Name="MainMenu" ID="{71156013-F77A-4C7D-BC9A-E7455556647A}"/>
+						<State Name="Combat" ID="{97992ED8-640A-4AFC-960F-0B3C5A7D8C54}"/>
+						<State Name="BossCombat" ID="{625C3B94-A4FE-4B7F-B10B-0FDE2946F4C2}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="PlayerVictory" ID="{1435AB7E-AC32-4052-80F7-E06A13B308D6}"/>
+							<EndState Name="None" ID="{64CE85EC-6CF6-443D-8E48-0B954F2658D3}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

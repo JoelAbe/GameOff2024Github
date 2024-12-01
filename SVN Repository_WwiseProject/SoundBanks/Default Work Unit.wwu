@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{81B3931B-9265-47F5-9B74-F4862A4DACAE}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{81B3931B-9265-47F5-9B74-F4862A4DACAE}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Foley" ID="{54D42A7E-79E0-4FDB-BF52-77368029EE82}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SpellLearned" ID="{C54B9A33-E004-40A1-ADC1-7E8A3F787B5C}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GravCast" ID="{62D71A1B-F5BA-40F2-975A-98744203D2BE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceCast" ID="{F2FA154C-F763-412A-937A-AF53E971D1F1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player" ID="{53711674-536A-414E-901C-1F26D833F151}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SkelTaunt" ID="{2A6DD0E3-5C52-4175-8EB6-C180AF83A166}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexCast" ID="{3B2E3C0C-2992-417E-82BD-5050C51441D0}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="JumpLand" ID="{B62E0607-8FDF-418B-9677-B4B43D40E476}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RevealCharge" ID="{5C30639B-F9DA-418B-922D-8280E1888EE9}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Jump" ID="{16C7056C-D457-4196-8CF9-006FBD08FBA5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SkelMageDeath" ID="{B1C40A4F-EE7A-4243-8163-2B3FAEDE1389}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsSkelMage" ID="{8BFF1B71-53B6-42A6-92FA-6A9C5A68B2CF}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercCast" ID="{EF4D52BF-F0BE-42CC-8BDD-9D28B1DDFAC8}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsGrass" ID="{A93E539C-BEEF-43BC-B3D0-DA1AF9ACA91F}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HeartbeatDamaged" ID="{D23DB7D7-70A4-440C-AB08-CEEB96947F85}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Enemy" ID="{77696F5E-CC41-44F0-BAEC-4EFAA84D8653}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDA3" ID="{D45FC81F-D823-44FB-8CC2-D9D827ED8DB8}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneImpact" ID="{EB64C7AF-051B-4576-9677-0A2299D806C5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="OutsideAmb" ID="{63DF5908-2A5B-459A-84A1-F110B51381F0}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BossGroan" ID="{D9317214-CE10-45B3-BB63-E96924C519EE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SkelHevyDeath" ID="{7ADAC106-73AB-45E9-AC39-E2392A8D88B4}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexCharge" ID="{FEDA2E91-AB47-45EA-A64D-668CE46FAC5D}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceBase" ID="{0A3769F2-272C-4679-A368-0A4C6D163577}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CrystalAmb" ID="{A8765A4D-4EB4-467E-BB12-78459CCD8E8F}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CaveAmb" ID="{FE4E161F-9955-467E-A2B7-6CA9A8D03288}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{FCD287E3-4D64-46EE-95DB-F9E235526FC9}" WorkUnitID="{FCD287E3-4D64-46EE-95DB-F9E235526FC9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CaveDripAmb" ID="{432AD513-1333-4737-90AB-48629EFA8E66}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GravBase" ID="{BB323306-3116-4749-B622-F600040AF7D9}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsStone" ID="{67F15B9A-466F-477B-95AB-076FF13F86CA}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="WindGust" ID="{80B67FEE-C019-47FA-BDBD-EDA34A1780DC}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" WorkUnitID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BossSnarl" ID="{991F577B-3295-48E6-9CE7-7D23AB47F5B0}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="StoneDoorOpen" ID="{17408F5B-5F48-491E-96FC-DF8D0A5A1302}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RestoreHealth" ID="{4E78679A-BD50-4954-89B5-696924F61D0B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercImpact" ID="{8E655D66-7F66-4982-B65B-FD7ABC2BEC66}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDeath" ID="{497B4389-77E7-49A7-BC6E-A1B959E7C9C6}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RevealCast" ID="{13A0955D-0B10-49AE-B917-E111EB2D660F}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Interact" ID="{23FA8F30-99D1-49C5-BF1C-665418E1CFDE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollGrunt" ID="{046538D4-DCC4-49C9-8EB5-45D3F15C77AF}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Amb" ID="{6152DFB8-16E8-4A05-8609-FB518A1E0DFE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsSkelArch" ID="{A5266C4D-0D4D-4A3D-B177-357CE302E396}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDA1" ID="{B705A828-6C62-4A54-BC4C-C079F29B0477}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexImpact" ID="{A04E8553-CCD3-4A7A-800E-3B5D575AF242}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneCharge" ID="{61DC9CE8-A58E-4A8A-9483-AD0865631E65}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="OceanAmb" ID="{33CEB502-9522-4B79-94F6-12858015FF68}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Troll" ID="{61F7AFD6-AFED-4B98-B9C0-75DD7DDA816A}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercBase" ID="{951C73BC-AAD0-4C1D-A23F-A445F5F75D93}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDA2" ID="{37228A2F-834A-4C25-9085-99777EEBD385}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceCharge" ID="{AD4738BD-AB03-4C31-A805-7B207BBFED8B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RevealBase" ID="{B255362B-7BC1-4C49-9158-3B00DA807CBC}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsBoss" ID="{67A06088-4F27-4C7F-B3CC-A1FE2E392ACE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexBase" ID="{C067A4DD-9D55-4C8C-BB3C-9427DA2C1762}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="DamageDealt" ID="{95632778-5364-4CA4-B0E4-AA7FDB396390}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dynamic Dialogue" ID="{309AF5DE-031F-4CE0-9B9B-C0A536275343}" WorkUnitID="{309AF5DE-031F-4CE0-9B9B-C0A536275343}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArmourBreak" ID="{AC9BF525-BC06-4D46-8F8D-9DF12E1EB140}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercCharge" ID="{6F5D2451-F28F-4D5F-81D8-E50023FA37DC}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MetalDoorClose" ID="{06FEAFDD-7B3F-4D87-9D3F-B580E192236D}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MetalDoorOpen" ID="{859777ED-415F-4DC2-97BC-8ACBC09D9DAA}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsEventDontUse" ID="{5EEC76F4-DE38-4DC4-B587-FB39E51717C1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Spells" ID="{EC38464F-503A-4E05-8264-32615CB48CD1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PedButtons" ID="{9D251B9A-6A0D-4E14-8455-645E8B9DE8C5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GravCharge" ID="{23A8728B-70E2-4E30-B203-D323873BEA46}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollFootstep" ID="{E3C48BC0-A375-4E69-8F01-DD685F347DE2}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneBase" ID="{E5B313F3-5ABC-4EA6-B0A0-08B48363696B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneCast" ID="{885312F0-2D28-4EE1-B663-0A0B1B6A2116}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollSlam" ID="{9D9615E9-A636-4F05-8004-AF08EF9F77F5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceImpact" ID="{750B6E2A-D71D-4F93-8023-E062DE610DE1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RestoreMana" ID="{5515A009-5E86-4FC7-B64B-71D2D5709B1B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Amb" ID="{E93605A0-58E1-4BCD-8C54-EB4735ED0274}">
+					<ObjectInclusionList>
+						<ObjectRef Name="SpellLearned" ID="{C54B9A33-E004-40A1-ADC1-7E8A3F787B5C}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GravCast" ID="{62D71A1B-F5BA-40F2-975A-98744203D2BE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceCast" ID="{F2FA154C-F763-412A-937A-AF53E971D1F1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player" ID="{53711674-536A-414E-901C-1F26D833F151}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SkelTaunt" ID="{2A6DD0E3-5C52-4175-8EB6-C180AF83A166}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexCast" ID="{3B2E3C0C-2992-417E-82BD-5050C51441D0}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="JumpLand" ID="{B62E0607-8FDF-418B-9677-B4B43D40E476}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RevealCharge" ID="{5C30639B-F9DA-418B-922D-8280E1888EE9}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Jump" ID="{16C7056C-D457-4196-8CF9-006FBD08FBA5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SkelMageDeath" ID="{B1C40A4F-EE7A-4243-8163-2B3FAEDE1389}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsSkelMage" ID="{8BFF1B71-53B6-42A6-92FA-6A9C5A68B2CF}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercCast" ID="{EF4D52BF-F0BE-42CC-8BDD-9D28B1DDFAC8}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsGrass" ID="{A93E539C-BEEF-43BC-B3D0-DA1AF9ACA91F}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HeartbeatDamaged" ID="{D23DB7D7-70A4-440C-AB08-CEEB96947F85}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Enemy" ID="{77696F5E-CC41-44F0-BAEC-4EFAA84D8653}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDA3" ID="{D45FC81F-D823-44FB-8CC2-D9D827ED8DB8}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneImpact" ID="{EB64C7AF-051B-4576-9677-0A2299D806C5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="OutsideAmb" ID="{63DF5908-2A5B-459A-84A1-F110B51381F0}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BossGroan" ID="{D9317214-CE10-45B3-BB63-E96924C519EE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SkelHevyDeath" ID="{7ADAC106-73AB-45E9-AC39-E2392A8D88B4}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexCharge" ID="{FEDA2E91-AB47-45EA-A64D-668CE46FAC5D}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceBase" ID="{0A3769F2-272C-4679-A368-0A4C6D163577}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CrystalAmb" ID="{A8765A4D-4EB4-467E-BB12-78459CCD8E8F}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CaveAmb" ID="{FE4E161F-9955-467E-A2B7-6CA9A8D03288}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{FCD287E3-4D64-46EE-95DB-F9E235526FC9}" WorkUnitID="{FCD287E3-4D64-46EE-95DB-F9E235526FC9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CaveDripAmb" ID="{432AD513-1333-4737-90AB-48629EFA8E66}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GravBase" ID="{BB323306-3116-4749-B622-F600040AF7D9}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsStone" ID="{67F15B9A-466F-477B-95AB-076FF13F86CA}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="WindGust" ID="{80B67FEE-C019-47FA-BDBD-EDA34A1780DC}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Events" ID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" WorkUnitID="{A69BF0FC-D84A-487C-ABDD-56F71CB2A126}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BossSnarl" ID="{991F577B-3295-48E6-9CE7-7D23AB47F5B0}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="StoneDoorOpen" ID="{17408F5B-5F48-491E-96FC-DF8D0A5A1302}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RestoreHealth" ID="{4E78679A-BD50-4954-89B5-696924F61D0B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercImpact" ID="{8E655D66-7F66-4982-B65B-FD7ABC2BEC66}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDeath" ID="{497B4389-77E7-49A7-BC6E-A1B959E7C9C6}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RevealCast" ID="{13A0955D-0B10-49AE-B917-E111EB2D660F}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Interact" ID="{23FA8F30-99D1-49C5-BF1C-665418E1CFDE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollGrunt" ID="{046538D4-DCC4-49C9-8EB5-45D3F15C77AF}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Amb" ID="{6152DFB8-16E8-4A05-8609-FB518A1E0DFE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsSkelArch" ID="{A5266C4D-0D4D-4A3D-B177-357CE302E396}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDA1" ID="{B705A828-6C62-4A54-BC4C-C079F29B0477}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexImpact" ID="{A04E8553-CCD3-4A7A-800E-3B5D575AF242}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneCharge" ID="{61DC9CE8-A58E-4A8A-9483-AD0865631E65}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="OceanAmb" ID="{33CEB502-9522-4B79-94F6-12858015FF68}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Troll" ID="{61F7AFD6-AFED-4B98-B9C0-75DD7DDA816A}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercBase" ID="{951C73BC-AAD0-4C1D-A23F-A445F5F75D93}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollDA2" ID="{37228A2F-834A-4C25-9085-99777EEBD385}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceCharge" ID="{AD4738BD-AB03-4C31-A805-7B207BBFED8B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RevealBase" ID="{B255362B-7BC1-4C49-9158-3B00DA807CBC}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsBoss" ID="{67A06088-4F27-4C7F-B3CC-A1FE2E392ACE}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="VortexBase" ID="{C067A4DD-9D55-4C8C-BB3C-9427DA2C1762}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="DamageDealt" ID="{95632778-5364-4CA4-B0E4-AA7FDB396390}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dynamic Dialogue" ID="{309AF5DE-031F-4CE0-9B9B-C0A536275343}" WorkUnitID="{309AF5DE-031F-4CE0-9B9B-C0A536275343}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArmourBreak" ID="{AC9BF525-BC06-4D46-8F8D-9DF12E1EB140}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MercCharge" ID="{6F5D2451-F28F-4D5F-81D8-E50023FA37DC}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MetalDoorClose" ID="{06FEAFDD-7B3F-4D87-9D3F-B580E192236D}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="MetalDoorOpen" ID="{859777ED-415F-4DC2-97BC-8ACBC09D9DAA}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsEventDontUse" ID="{5EEC76F4-DE38-4DC4-B587-FB39E51717C1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Spells" ID="{EC38464F-503A-4E05-8264-32615CB48CD1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PedButtons" ID="{9D251B9A-6A0D-4E14-8455-645E8B9DE8C5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GravCharge" ID="{23A8728B-70E2-4E30-B203-D323873BEA46}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollFootstep" ID="{E3C48BC0-A375-4E69-8F01-DD685F347DE2}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneBase" ID="{E5B313F3-5ABC-4EA6-B0A0-08B48363696B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ArcaneCast" ID="{885312F0-2D28-4EE1-B663-0A0B1B6A2116}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TrollSlam" ID="{9D9615E9-A636-4F05-8004-AF08EF9F77F5}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="IceImpact" ID="{750B6E2A-D71D-4F93-8023-E062DE610DE1}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="RestoreMana" ID="{5515A009-5E86-4FC7-B64B-71D2D5709B1B}" WorkUnitID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

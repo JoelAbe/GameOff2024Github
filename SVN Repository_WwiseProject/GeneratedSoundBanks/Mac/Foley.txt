@@ -1,0 +1,195 @@
+Event	ID	Name			Wwise Object Path	Notes
+	8651643	CrystalAmb			\Default Work Unit\Amb\CrystalAmb	
+	57367014	BloodCast			\Default Work Unit\Spells\BloodCast	
+	103456382	ArmourBreak			\Default Work Unit\Enemy\ArmourBreak	
+	199363535	UIHover			\Default Work Unit\Interact\UIHover	
+	213557190	UIBack			\Default Work Unit\Interact\UIBack	
+	231561627	LightningImpact			\Default Work Unit\Spells\LightningImpact	
+	235570116	MercImpact			\Default Work Unit\Spells\MercImpact	
+	295813234	MetalDoorOpen			\Default Work Unit\Interact\MetalDoorOpen	
+	315106662	CaveAmb			\Default Work Unit\Amb\CaveAmb	
+	402255635	PedButtons			\Default Work Unit\Interact\PedButtons	
+	417547627	RestoreHealth			\Default Work Unit\Interact\RestoreHealth	
+	417627684	PlayMusic			\Default Work Unit\PlayMusic	
+	423073936	DamageDealt			\Default Work Unit\Player\DamageDealt	
+	425707612	TrollGrunt			\Default Work Unit\Enemy\Troll\TrollGrunt	
+	439362369	BloodImpact			\Default Work Unit\Spells\BloodImpact	
+	458272512	SkelMageDeath			\Default Work Unit\Enemy\SkelMageDeath	
+	494539749	IceBase			\Default Work Unit\Spells\IceBase	
+	515596832	FootstepsGrass			\Default Work Unit\Enemy\FootstepsGrass	
+	732416326	OutsideAmb			\Default Work Unit\Amb\OutsideAmb	
+	797406576	ArcaneBase			\Default Work Unit\Spells\ArcaneBase	
+	835295888	TrollFootstep			\Default Work Unit\Enemy\Troll\TrollFootstep	
+	841120466	LightningBase			\Default Work Unit\Spells\LightningBase	
+	942103461	VortexCharge			\Default Work Unit\Spells\VortexCharge	
+	971425650	MercCharge			\Default Work Unit\Spells\MercCharge	
+	973022319	TrollSurprise			\Default Work Unit\Enemy\Troll\TrollSurprise	
+	1022303988	StoneDoorOpen			\Default Work Unit\Interact\StoneDoorOpen	
+	1151199314	SpellLearned			\Default Work Unit\Player\SpellLearned	
+	1258020691	OceanAmb			\Default Work Unit\Amb\OceanAmb	
+	1522260198	RevealCharge			\Default Work Unit\Spells\RevealCharge	
+	1548130050	JumpLand			\Default Work Unit\JumpLand	
+	1582388014	WindGust			\Default Work Unit\Amb\WindGust	
+	1673117989	RevealBase			\Default Work Unit\Spells\RevealBase	
+	1816659375	UISelect			\Default Work Unit\Interact\UISelect	
+	1870896934	MetalDoorClose			\Default Work Unit\Interact\MetalDoorClose	
+	1892271593	MercBase			\Default Work Unit\Spells\MercBase	
+	1931732237	CaveDripAmb			\Default Work Unit\Amb\CaveDripAmb	
+	1942692385	Dash			\Default Work Unit\Player\Dash	
+	1948643480	SkelHevyDeath			\Default Work Unit\Enemy\SkelHevyDeath	
+	2003188291	ArcaneCharge			\Default Work Unit\Spells\ArcaneCharge	
+	2007924884	BloodBase			\Default Work Unit\Spells\BloodBase	
+	2020052096	VortexCast			\Default Work Unit\Spells\VortexCast	
+	2048790625	BossGroan			\Default Work Unit\Enemy\BossGroan	
+	2055385033	FootstepsBoss			\Default Work Unit\Enemy\FootstepsBoss	
+	2145120486	GravCast			\Default Work Unit\Spells\GravCast	
+	2149339311	GravCharge			\Default Work Unit\Spells\GravCharge	
+	2210836514	HealCast			\Default Work Unit\Spells\HealCast	
+	2337953225	LightningCharge			\Default Work Unit\Spells\LightningCharge	
+	2357130601	TrollSlam			\Default Work Unit\Enemy\Troll\TrollSlam	
+	2455543531	IceCast			\Default Work Unit\Spells\IceCast	
+	2625864099	HealCharge			\Default Work Unit\Spells\HealCharge	
+	2676316277	FootstepsStone			\Default Work Unit\FootstepsStone	
+	2683855279	BloodCharge			\Default Work Unit\Spells\BloodCharge	
+	2691024872	IceImpact			\Default Work Unit\Spells\IceImpact	
+	2802624880	FootstepsEventDontUse			\Default Work Unit\Enemy\FootstepsEventDontUse	
+	2853547616	BossSnarl			\Default Work Unit\Enemy\BossSnarl	
+	3141815746	ArcaneCast			\Default Work Unit\Spells\ArcaneCast	
+	3148167616	TrollDeath			\Default Work Unit\Enemy\Troll\TrollDeath	
+	3185529644	LightningCast			\Default Work Unit\Spells\LightningCast	
+	3202481383	FootstepsSkelArch			\Default Work Unit\Enemy\FootstepsSkelArch	
+	3214343592	TrollDA1			\Default Work Unit\Enemy\Troll\TrollDA1	
+	3214343594	TrollDA3			\Default Work Unit\Enemy\Troll\TrollDA3	
+	3214343595	TrollDA2			\Default Work Unit\Enemy\Troll\TrollDA2	
+	3233040040	SkelTaunt			\Default Work Unit\SkelTaunt	
+	3433726358	VortexBase			\Default Work Unit\Spells\VortexBase	
+	3610078967	SkelSword			\Default Work Unit\Enemy\SkelSword	
+	3616309158	IceCharge			\Default Work Unit\Spells\IceCharge	
+	3634018603	RevealCast			\Default Work Unit\Spells\RevealCast	
+	3733210101	ArcaneImpact			\Default Work Unit\Spells\ArcaneImpact	
+	3819753421	FootstepsSkelMage			\Default Work Unit\Enemy\FootstepsSkelMage	
+	3833651337	Jump			\Default Work Unit\Jump	
+	3853172191	MercCast			\Default Work Unit\Spells\MercCast	
+	4095678356	GravBase			\Default Work Unit\Spells\GravBase	
+	4161394640	HealBase			\Default Work Unit\Spells\HealBase	
+	4209329831	VortexImpact			\Default Work Unit\Spells\VortexImpact	
+	4225469016	RestoreMana			\Default Work Unit\Interact\RestoreMana	
+	4264306452	HeartbeatDamaged			\Default Work Unit\HeartbeatDamaged	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+State	ID	Name	State Group			Notes
+	579523862	Explore	Music			
+	748895195	None	Music			
+	1656947812	PlayerDeath	Music			
+	1670748270	BossCombat	Music			
+	2764240573	Combat	Music			
+	3111020472	PlayerVictory	Music			
+	3604647259	MainMenu	Music			
+
+Effect plug-ins	ID	Name	Type				Notes
+	418265525	Gentle_Program_Compressor_Minus_14dB_RMS	Wwise Compressor			
+	3604890626	High_Pass_60Hz	Wwise Parametric EQ			
+	4286906788	Gentle_Program_Compressor_Minus_20dB_RMS	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5455552	Fire Impact	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fire Impact_4A81A444.wem		\Actor-Mixer Hierarchy\Default Work Unit\SulfuricVortex\Fire Impact		500924
+	9187528	Gravity Spell Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Gravity Spell Base_036C0FC3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gravity Spell\Gravity Spell Base		2847216
+	16781478	Reveal - Reveal Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Reveal - Reveal Base_71774CF6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Reveal\Reveal - Reveal Base		2867008
+	36723843	Troll Footstep 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll Footstep 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\TrollFootsteps\Troll Footstep 1		157060
+	60683476	Skeleton Footsteps 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skeleton Footsteps 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelArcherStep\Skeleton Footsteps 1		108724
+	91117989	Heal Spell Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Heal Spell Charge_D888CAB7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Heal Spell\Heal Spell Charge		2865340
+	105923182	Crystal Hum	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Crystal Hum_86EDD714.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences\Crystal Hum		4664280
+	118965934	Lightning Impact	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Lightning Impact_9D678AE2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lightning Spell\Lightning Impact		229776
+	118978460	UI Back	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\UI Back_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI Back		57108
+	142468467	Foley - Stone Walk 4	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley - Stone Walk 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Stone Walk\Foley - Stone Walk 4		67404
+	148502813	Troll Footstep 3	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll Footstep 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\TrollFootsteps\Troll Footstep 3		157060
+	149745386	Metal Gate Open	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Metal Gate Open_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interact\Metal Gate Open		419368
+	157154760	Skel Heavy Death	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skel Heavy Death_FF515736.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\Skel Heavy Death		332368
+	157587331	Heal Spell Cast 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Heal Spell Cast 2_EF505D5A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Heal Spell\Heal Spell Cast 2		669668
+	158334015	Blood Spell Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Blood Spell Charge_4DBCBE04.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blood Spell\Blood Spell Charge		2847648
+	167678840	Skeleton Taunt 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skeleton Taunt 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelTaunt\Skeleton Taunt 1		625620
+	175927256	Jump	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Jump_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump		182788
+	181342943	Skeleton Footsteps 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skeleton Footsteps 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelArcherStep\Skeleton Footsteps 2		108724
+	188952549	Stone Button 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Stone Button 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interact\PedButtons\Stone Button 2		241492
+	199954911	Skeleton Taunt 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skeleton Taunt 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelTaunt\Skeleton Taunt 2		794280
+	209939064	Main Menu Music	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Main Menu Music_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\MainMenu\Main Menu Music\Main Menu Music		32329404
+	216396724	Foley -  Stone Walk	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley -  Stone Walk_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Stone Walk\Foley -  Stone Walk		67404
+	228748559	Mercury - Mercury Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fireball Charge_807D80B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\MeteorofMercury\Mercury - Mercury Charge		2859776
+	229459217	UI Select	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\UI Select_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI Select		39148
+	230897603	Mercury - Impact	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fireball Impact_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\MeteorofMercury\Mercury - Impact		644964
+	234551554	Blood Spell Cast 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Blood Spell Cast 1_33C175F2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blood Spell\Blood Spell Cast 1		773784
+	239734971	Boss Footstep 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Boss Footstep 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\BossStep\Boss Footstep 1		108724
+	254885553	Victory Theme	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Victory Theme_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Victory Theme\Victory Theme		32329404
+	260316979	Lightning Cast	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Lightning Cast_88D8B468.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lightning Spell\Lightning Cast		595388
+	268057939	Mercury - Mercury Spell	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fireball Cast_61F357A9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MeteorofMercury\Mercury - Mercury Spell		1812564
+	268234420	Heal Spell Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Heal Spell Base_CB22CF29.wem		\Actor-Mixer Hierarchy\Default Work Unit\Heal Spell\Heal Spell Base		2865388
+	300484719	Mercury - Mercury Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fireball Base_49DCE7F8.wem		\Actor-Mixer Hierarchy\Default Work Unit\MeteorofMercury\Mercury - Mercury Base		2859776
+	314655933	Armour Break	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Armour Break_D6F9D63E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Armour Break		201900
+	323992068	Lightning Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Lightning Charge_D18ECF7A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lightning Spell\Lightning Charge		3325532
+	328550892	Metal Gate Close	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Metal Gate Close_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interact\Metal Gate Close		419368
+	333747837	Blood Spell Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Blood Spell Base_FE3692B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blood Spell\Blood Spell Base		2847600
+	338941225	Ice Impact	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Ice Impact_BFA60ED2.wem		\Actor-Mixer Hierarchy\Default Work Unit\IceSpike\Ice Impact		214012
+	343176498	Dash	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Dash_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Dash\Dash		182788
+	345200592	Lightning Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Arcane - Arcane Base_437E4BA9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lightning Spell\Lightning Base		2865172
+	349933552	Ice - Ice Spell Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Ice - Ice Spell Charge_F1676614.wem		\Actor-Mixer Hierarchy\Default Work Unit\IceSpike\Ice - Ice Spell Charge		4933744
+	359415955	Foley -  Grass Walk 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley -  Grass Walk 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Grass Walk\Foley -  Grass Walk 1		115052
+	363385544	Explore 1_1 Flute full	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Explore 1.1 Flute full_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Explore 1_1 Flute full\Explore 1_1 Flute full		22322716
+	403698341	Fire - Fire Spell	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fire Spell NU_74835C79.wem		\Actor-Mixer Hierarchy\Default Work Unit\SulfuricVortex\Fire - Fire Spell		338492
+	409241527	Explore 1_1 Solo Strings	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Explore 1.1 Solo Strings_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Explore\Explore 1_1 Solo Strings\Explore 1_1 Solo Strings		22322716
+	426048135	Monster Groan	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Monster Groan_71E8321D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Monster Groan		209348
+	439842004	Skeleton Mage Footstep 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skeleton Mage Footstep 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelMageStep\Skeleton Mage Footstep 1		108724
+	441764282	Heartbeat Damaged	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Heartbeat Damaged_AA663DAB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Heartbeat Damaged		2015508
+	446951625	Amb - Cave Drip Amb	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Amb - Cave Drip Amb_C9E93513.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences\Amb - Cave Drip Amb		5558000
+	448393991	OceanAmb	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Amb - Ocean Amb_F02C02ED.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences\OceanAmb		14376212
+	453445796	Fire - Fire Spell Charge Crackle	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fire - Fire Spell Charge Crackle_E092F308.wem		\Actor-Mixer Hierarchy\Default Work Unit\SulfuricVortex\Fire - Fire Spell Charge Crackle		2856436
+	489505204	Reveal - Reveal Spell	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Reveal - Reveal Spell_D983552E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Reveal\Reveal - Reveal Spell		379168
+	499189809	Impact Flesh 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Impact Flesh 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageDealt\Impact Flesh 1		152336
+	504630589	Sword Swing 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Sword Swing 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelSword\Sword Swing 2		73072
+	511114207	Foley - Stone Walk 5	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley - Stone Walk 5_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Stone Walk\Foley - Stone Walk 5		67404
+	547315710	Combat Death Transition	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Combat Death Transition_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Death\Combat Death Transition\Combat Death Transition		1337020
+	552894498	Foley - Stone Walk 3	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley - Stone Walk 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Stone Walk\Foley - Stone Walk 3		67404
+	562569639	Stone Button 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Stone Button 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interact\PedButtons\Stone Button 1		241492
+	563678138	UI Hover	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\UI Hover_7BB52B48.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\UI Hover		71472
+	566675155	Explore 1_1 Wind	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Explore 1.1 Wind_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Explore 1_1 Wind\Explore 1_1 Wind		22322716
+	572996978	Explore Nu	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Explore Nu_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Explore Nu\Explore Nu		25578096
+	598362907	Victory Transition	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Victory Transition_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Victory Transition\Victory Transition		1337024
+	604679951	Troll DA2 Backhand UPDATE	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll DA2 Backhand UPDATE_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Troll DA2 Backhand UPDATE		474076
+	608164281	Ice - Ice Spell	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Ice - Ice Spell_BC7A32D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\IceSpike\Ice - Ice Spell		218060
+	611122393	AmbOutside	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Amb - Outside Amb_7B2ADA4B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences\AmbOutside		12355176
+	651598057	Explore 1_1 String Swell	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Explore 1.1 String Swell_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Explore 1_1 String Swell\Explore 1_1 String Swell		22322716
+	653387534	Arcane - Arcane Bolt	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Arcane - Arcane Bolt_3CA99F91.wem		\Actor-Mixer Hierarchy\Default Work Unit\Arcane\Arcane - Arcane Bolt		387108
+	653994515	Troll Footstep 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll Footstep 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\TrollFootsteps\Troll Footstep 2		157060
+	656971857	Troll Slam	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll Slam_555DFBC0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Troll Slam		1019884
+	666580836	Amb - Wind Gusts	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Amb - Wind Gusts_69F3F165.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences\Amb - Wind Gusts		16164372
+	677658560	Reveal - Reveal Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Reveal - Reveal Charge_D3F33136.wem		\Actor-Mixer Hierarchy\Default Work Unit\Reveal\Reveal - Reveal Charge		2867008
+	685803587	Restore Mana	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Restore Mana_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Restore Mana		402452
+	690858828	Jump Landing	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Jump Landing_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump Landing		182788
+	710699785	Troll Suprise	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll Suprise_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Troll Suprise		1077592
+	728296804	Gravity Spell Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Gravity Spell Charge_6CB6A059.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gravity Spell\Gravity Spell Charge		2847216
+	732502525	Stone Button 3	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Stone Button 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interact\PedButtons\Stone Button 3		241492
+	751125016	Blood Spell Impact	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Blood Spell Impact_D9D7DB45.wem		\Actor-Mixer Hierarchy\Default Work Unit\Blood Spell\Blood Spell Impact		253768
+	753620668	Impact Flesh 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Impact Flesh 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageDealt\Impact Flesh 2		152336
+	804880970	Ice - Ice Spell Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Ice - Ice Spell Base_2D6792CD.wem		\Actor-Mixer Hierarchy\Default Work Unit\IceSpike\Ice - Ice Spell Base		4933744
+	822947439	Troll Death UPDATE	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll Death UPDATE_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Troll Death UPDATE		1197392
+	826318091	Explore 1_1 Guitar	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Explore 1.1 Guitar_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Player Victory\Explore 1_1 Guitar\Explore 1_1 Guitar		22322716
+	829906749	Glyph COMBAT 2_2 No Cell	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Glyph COMBAT 2.2 No Cell_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Combat\Glyph COMBAT 2_2 No Cell\Glyph COMBAT 2_2 No Cell		20238532
+	858923257	Foley - Grass Walk 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley - Grass Walk 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Grass Walk\Foley - Grass Walk 2		115052
+	861886287	Troll DA1 UPDATE	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll DA1 UPDATE_9E8B25D9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Troll DA1 UPDATE		542032
+	876222904	Gravity Spell Cast	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Gravity Spell Cast_3069EE55.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gravity Spell\Gravity Spell Cast		597488
+	906332682	Arcane Charge	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Arcane Charge_EBADCB19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Arcane\Arcane Charge		2867008
+	908751861	Foley - Grass Walk 3	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Foley - Grass Walk 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\PlayerFootsteps\Grass Walk\Foley - Grass Walk 3		115052
+	918150706	Skeleton Mage Footstep 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skeleton Mage Footstep 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelMageStep\Skeleton Mage Footstep 2		108724
+	922313103	Glyph BOSS 2_1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Glyph BOSS 2.1_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Boss Combat\Glyph BOSS 2_1\Glyph BOSS 2_1		20238532
+	955244076	Sword Swing 1	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Sword Swing 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\SkelSword\Sword Swing 1		73072
+	969612360	Skel Mage Death	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Skel Mage Death_615CEC3A.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\Skel Mage Death		324244
+	977525048	Glyph COMBAT 2_2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Glyph COMBAT 2.2_FBC78EF0.wem		\Interactive Music Hierarchy\Music\Music Switch\Combat\Glyph COMBAT 2_2\Glyph COMBAT 2_2		20238532
+	979460007	Spell Learned	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Spell Learned_A5C8A4F8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Spell Learned		1502544
+	1012361956	Restore Health	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Restore Health_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Restore Health		182788
+	1013731342	Fire - Fire Spell Loop Base	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Fire - Fire Spell Loop Base_D420F956.wem		\Actor-Mixer Hierarchy\Default Work Unit\SulfuricVortex\Fire - Fire Spell Loop Base		1405664
+	1020142252	Boss Footstep 2	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Boss Footstep 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySFX\BossStep\Boss Footstep 2		108724
+	1035007236	Troll DA2 UPDATE	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Troll DA2 UPDATE_F3EF5C18.wem		\Actor-Mixer Hierarchy\Default Work Unit\Troll\Troll DA2 UPDATE		633856
+	1045111120	Amb - Cave Amb	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Amb - Cave Amb_657010A8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiences\Amb - Cave Amb		10229272
+	1049128440	Stone Door Open	C:\Users\remmu\Documents\SVN Repository\SVN Repository_WwiseProject\.cache\Mac\SFX\Stone Door Open_44696175.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interact\Stone Door Open		419368
+

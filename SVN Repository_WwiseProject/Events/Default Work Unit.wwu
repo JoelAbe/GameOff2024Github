@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{795704C4-1DBC-43AD-860D-66C6FFBD028E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="FootstepsStone" ID="{67F15B9A-466F-477B-95AB-076FF13F86CA}">
+					<ChildrenList>
+						<Action Name="" ID="{1C2EDAA5-1631-426B-8B63-09C43A40B8F7}" ShortID="318699681">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Stone Walk" ID="{2785DECE-7459-4AD9-921C-141DB08FB4BE}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Folder Name="Spells" ID="{EC38464F-503A-4E05-8264-32615CB48CD1}" ShortID="665660644">
+					<ChildrenList>
+						<Event Name="IceBase" ID="{0A3769F2-272C-4679-A368-0A4C6D163577}">
+							<ChildrenList>
+								<Action Name="" ID="{F25FD3DA-C2D2-4731-A0E3-076C5DC32004}" ShortID="398186818">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Ice - Ice Spell Base" ID="{23B5BA93-81E6-434E-A7B5-56442FBE3432}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="IceCharge" ID="{AD4738BD-AB03-4C31-A805-7B207BBFED8B}">
+							<ChildrenList>
+								<Action Name="" ID="{198F55D7-1419-4272-910B-B506F871389D}" ShortID="430074953">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Ice - Ice Spell Charge" ID="{41B239BC-B09F-4496-841A-2619EAB607C5}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="IceCast" ID="{F2FA154C-F763-412A-937A-AF53E971D1F1}">
+							<ChildrenList>
+								<Action Name="" ID="{D98BCDC7-3587-4026-B9B9-B19153C02979}" ShortID="1020668926">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Ice - Ice Spell" ID="{CF0B63D3-17B0-4984-9F54-657FA834C61B}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="MercBase" ID="{951C73BC-AAD0-4C1D-A23F-A445F5F75D93}">
+							<ChildrenList>
+								<Action Name="" ID="{245F9FCC-3F2A-43BA-B6B4-0419864E11F0}" ShortID="83071914">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mercury - Mercury Base" ID="{590A00A7-D9AE-43B3-AEEA-0C36B59B289C}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="MercCharge" ID="{6F5D2451-F28F-4D5F-81D8-E50023FA37DC}">
+							<ChildrenList>
+								<Action Name="" ID="{FB7807E4-6A01-4EDF-AAE2-AECFE38E8D83}" ShortID="107151354">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mercury - Mercury Charge" ID="{CC2A6B62-9AE6-4465-9DC9-11E1226B0B31}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="MercCast" ID="{EF4D52BF-F0BE-42CC-8BDD-9D28B1DDFAC8}">
+							<ChildrenList>
+								<Action Name="" ID="{E4923A71-D1B3-4026-BD4B-DEFA1A00E6BD}" ShortID="107190355">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mercury - Mercury Spell" ID="{B7AF0FCF-7603-42E1-82CB-2B2F98549867}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="VortexBase" ID="{C067A4DD-9D55-4C8C-BB3C-9427DA2C1762}">
+							<ChildrenList>
+								<Action Name="" ID="{D4A8EBDA-0C93-4315-B177-472574A530FB}" ShortID="576572525">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fire - Fire Spell Loop Base" ID="{A8D7B60B-DBE7-4D9A-91EC-D9A097657DE4}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="VortexCharge" ID="{FEDA2E91-AB47-45EA-A64D-668CE46FAC5D}">
+							<ChildrenList>
+								<Action Name="" ID="{A651BE87-0F9B-4FA6-8C28-D36FEDD75DA6}" ShortID="351767279">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fire - Fire Spell Charge Crackle" ID="{C85FE868-99AE-4125-8F12-298648D01913}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="VortexCast" ID="{3B2E3C0C-2992-417E-82BD-5050C51441D0}">
+							<ChildrenList>
+								<Action Name="" ID="{8B3019AF-5750-4ABC-9AC1-A57EE8E3FCD2}" ShortID="644927884">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fire - Fire Spell" ID="{A9A08A2D-2A1B-4C0E-AEEA-D113F9DEF1BB}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="RevealBase" ID="{B255362B-7BC1-4C49-9158-3B00DA807CBC}">
+							<ChildrenList>
+								<Action Name="" ID="{64A7D5F8-5F25-487A-9687-2D81205597A5}" ShortID="941415171">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Reveal - Reveal Base" ID="{416A7422-0385-4837-B12F-E55099364AAD}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="RevealCast" ID="{13A0955D-0B10-49AE-B917-E111EB2D660F}">
+							<ChildrenList>
+								<Action Name="" ID="{66E95A26-1E7B-4E18-B381-0432D3B20AD2}" ShortID="876161333">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Reveal - Reveal Spell" ID="{FB7312C9-60D8-4754-8A0E-286AAF3E910E}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="RevealCharge" ID="{5C30639B-F9DA-418B-922D-8280E1888EE9}">
+							<ChildrenList>
+								<Action Name="" ID="{8852E68F-80EE-45DE-8D27-2C36E945ACC5}" ShortID="285868988">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Reveal - Reveal Charge" ID="{6C9F5F77-BE3B-4743-B580-124076E14811}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ArcaneBase" ID="{E5B313F3-5ABC-4EA6-B0A0-08B48363696B}">
+							<ChildrenList>
+								<Action Name="" ID="{95999F96-134E-433F-B425-A0EA2D2B761B}" ShortID="866916280">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Arcane - Arcane Base" ID="{94D3E7F6-6C4E-41E0-B4B6-1AC94EF40165}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ArcaneCharge" ID="{61DC9CE8-A58E-4A8A-9483-AD0865631E65}">
+							<ChildrenList>
+								<Action Name="" ID="{197E5946-A8E3-464C-AE09-0A584D3FC6D4}" ShortID="352713473">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Arcane Charge" ID="{CE4EE833-F7CD-4C5B-9670-76FD9625B5CD}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ArcaneCast" ID="{885312F0-2D28-4EE1-B663-0A0B1B6A2116}">
+							<ChildrenList>
+								<Action Name="" ID="{4C274877-1F9D-4AEE-80B9-8C2C2AD3C278}" ShortID="181947870">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Arcane - Arcane Bolt" ID="{6A3A6710-06D7-47A9-8782-025C343036FC}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="VortexImpact" ID="{A04E8553-CCD3-4A7A-800E-3B5D575AF242}">
+							<ChildrenList>
+								<Action Name="" ID="{35D33DA8-BD6A-4C08-817C-8C1A2BF7FB43}" ShortID="173830091">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fire Impact" ID="{CA2DBA3D-6528-4CC0-B3CE-9CA3375F011A}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ArcaneImpact" ID="{EB64C7AF-051B-4576-9677-0A2299D806C5}"/>
+						<Event Name="MercImpact" ID="{8E655D66-7F66-4982-B65B-FD7ABC2BEC66}">
+							<ChildrenList>
+								<Action Name="" ID="{386F18F1-002A-46BD-9D32-F5D2E33EB0D2}" ShortID="1058546509">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Mercury - Impact" ID="{7208FC76-E255-4DA2-9C47-0AC6DD58BA20}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="IceImpact" ID="{750B6E2A-D71D-4F93-8023-E062DE610DE1}">
+							<ChildrenList>
+								<Action Name="" ID="{DE785091-B7F6-4072-A2FB-AEE4B6F56BC7}" ShortID="705151706">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Ice Impact" ID="{4C112275-0579-4F66-A4BB-524F7CFC085D}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="GravCast" ID="{62D71A1B-F5BA-40F2-975A-98744203D2BE}">
+							<ChildrenList>
+								<Action Name="" ID="{9186B1C9-67EA-4888-BA5A-E63475D7CEFD}" ShortID="281365303">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Gravity Spell Cast" ID="{EADAB068-4900-48A1-8BA0-959503D878B4}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="GravBase" ID="{BB323306-3116-4749-B622-F600040AF7D9}">
+							<ChildrenList>
+								<Action Name="" ID="{C3F06854-5CFB-41BA-9CE8-50CBCD7C327B}" ShortID="485724848">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Gravity Spell Base" ID="{9BA6C4A1-45F6-433A-800E-46AA4FECE3BA}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="GravCharge" ID="{23A8728B-70E2-4E30-B203-D323873BEA46}">
+							<ChildrenList>
+								<Action Name="" ID="{5B72E485-AC26-4ADC-83F3-FB178B6C1E3A}" ShortID="667518689">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Gravity Spell Charge" ID="{40117FDD-0DA4-4885-BFAB-0B8D4AF23A46}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="HealBase" ID="{F1FCBBBF-7740-40CB-832B-6F7AF06BC9AA}">
+							<ChildrenList>
+								<Action Name="" ID="{DC7E7EEB-BA1E-408F-AEA4-9DEC671BC2EC}" ShortID="544190661">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Heal Spell Base" ID="{077E75D9-7E82-4EAF-ADEE-0F574952C107}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="HealCharge" ID="{70571334-4C59-43D7-98B1-0726DA6C8F16}">
+							<ChildrenList>
+								<Action Name="" ID="{A723949C-CAA2-4D8F-ABA8-EC53002AC665}" ShortID="526498861">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Heal Spell Charge" ID="{0B796BE4-7925-40F4-A454-A54D9AF2165E}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="HealCast" ID="{AE7A4B22-89F1-4C20-92B3-29B78BB225EC}">
+							<ChildrenList>
+								<Action Name="" ID="{E255AA98-02AA-4319-9B97-49330F00C05B}" ShortID="249917390">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Heal Spell Cast 2" ID="{1915DAF0-B102-4E78-B08F-7C969B4471EC}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="BloodBase" ID="{FBA4B9DD-F861-4290-9A30-242536E0E3FB}">
+							<ChildrenList>
+								<Action Name="" ID="{CB0845E2-9086-465D-8E4F-BDBB07F2EBD3}" ShortID="872391277">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Blood Spell Base" ID="{DC00C20C-B143-4FBE-8ABF-8CE94A4D4AA9}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="BloodCharge" ID="{A5436E62-92F7-466A-A421-C37321179B5E}">
+							<ChildrenList>
+								<Action Name="" ID="{64A564C0-5C88-444B-82C1-6C336C8A88B5}" ShortID="629496862">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Blood Spell Charge" ID="{7DECA4AB-334C-433E-B8D0-BB3270DEBCE1}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="BloodCast" ID="{AF3384C5-747F-4808-958E-6B36F24C89F1}">
+							<ChildrenList>
+								<Action Name="" ID="{3236A723-4F6E-4C70-BA05-6ECA07DEEC17}" ShortID="444451391">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Blood Spell Cast 1" ID="{4005B1A5-8B26-4F76-9101-58AE499A66B7}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="BloodImpact" ID="{F6436D1D-D9BD-425E-9AAF-16442005CAEF}">
+							<ChildrenList>
+								<Action Name="" ID="{217AAD83-5391-42E4-8EAE-0D6D2E82D197}" ShortID="525828757">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Blood Spell Impact" ID="{369A3068-078A-4257-A7E2-E20F355E20C9}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="LightningBase" ID="{4BA5E3B1-60C6-47C2-947A-2642170E8572}">
+							<ChildrenList>
+								<Action Name="" ID="{F145C936-B325-4465-9C95-23E61D9455E8}" ShortID="913650113">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Lightning Base" ID="{E4FCD899-9703-44C2-8DC7-114B9CDC3DFF}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="LightningCharge" ID="{DC3EFBEC-17F7-4938-B011-1405C738CEA6}">
+							<ChildrenList>
+								<Action Name="" ID="{BD0F6409-7757-4525-9E50-FA0D057B755F}" ShortID="188130216">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Lightning Charge" ID="{58661409-EF6B-46C2-89CD-460E687AEEC0}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="LightningCast" ID="{B5CEF236-5E34-4478-BF0C-DF78D22711A4}">
+							<ChildrenList>
+								<Action Name="" ID="{081835B6-1589-4694-8DDC-1F03E9280074}" ShortID="374199352">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Lightning Cast" ID="{194B5610-F559-4484-A6EB-3EB790532C35}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="LightningImpact" ID="{3BEC1253-B4ED-49FA-980D-A9AB1DFA210D}">
+							<ChildrenList>
+								<Action Name="" ID="{C4354664-5CFB-4FE3-8540-F09FA750B7C3}" ShortID="686234806">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Lightning Impact" ID="{0D21095E-FE0D-456B-A155-0A000480CC49}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Amb" ID="{6152DFB8-16E8-4A05-8609-FB518A1E0DFE}" ShortID="420208198">
+					<ChildrenList>
+						<Event Name="CaveAmb" ID="{FE4E161F-9955-467E-A2B7-6CA9A8D03288}">
+							<ChildrenList>
+								<Action Name="" ID="{C1672086-03DD-4E2F-8E2C-4C61165F010A}" ShortID="764049980">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Amb - Cave Amb" ID="{2E77A82E-0FDF-4BAE-B916-D27FF6E03E30}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="CaveDripAmb" ID="{432AD513-1333-4737-90AB-48629EFA8E66}">
+							<ChildrenList>
+								<Action Name="" ID="{354AAA11-C133-4F50-9527-8DDD9E6C0DDF}" ShortID="700483294">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Amb - Cave Drip Amb" ID="{F4EB4AE2-FEC4-4322-B652-A7096C137F52}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="OceanAmb" ID="{33CEB502-9522-4B79-94F6-12858015FF68}">
+							<ChildrenList>
+								<Action Name="" ID="{1E9851D7-AA6A-47C5-AB98-F02CA91A3114}" ShortID="146627999">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="OceanAmb" ID="{FCD39FF3-5CDB-44CD-BD52-1543C4A9A2D8}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="OutsideAmb" ID="{63DF5908-2A5B-459A-84A1-F110B51381F0}">
+							<ChildrenList>
+								<Action Name="" ID="{A5F719A2-81B5-41F8-9441-FF42A8BABD8B}" ShortID="394167280">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="AmbOutside" ID="{AC6D42D9-92F4-4B3B-83C1-2B625C123DB1}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="WindGust" ID="{80B67FEE-C019-47FA-BDBD-EDA34A1780DC}">
+							<ChildrenList>
+								<Action Name="" ID="{88BF10A3-ABDE-412B-BEF3-09EEF31C2C40}" ShortID="820754079">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Amb - Wind Gusts" ID="{38375C53-F76A-4347-9952-10C7E2FF1F1E}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="CrystalAmb" ID="{A8765A4D-4EB4-467E-BB12-78459CCD8E8F}">
+							<ChildrenList>
+								<Action Name="" ID="{3AB912B3-6F41-497F-8035-9BC50E9C31B1}" ShortID="770800166">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Crystal Hum" ID="{60A41D9F-4AA9-42E5-BA1E-FA44AF3A72DF}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="HeartbeatDamaged" ID="{D23DB7D7-70A4-440C-AB08-CEEB96947F85}">
+					<ChildrenList>
+						<Action Name="" ID="{43A2E9DF-82C7-4E3D-B7D8-6252D5E37C23}" ShortID="268137285">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Heartbeat Damaged" ID="{0DC8BA98-DFEA-495E-A421-1B5841910D35}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Jump" ID="{16C7056C-D457-4196-8CF9-006FBD08FBA5}">
+					<ChildrenList>
+						<Action Name="" ID="{A9081258-59AF-400D-BBCF-440C04BD721A}" ShortID="791779246">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump" ID="{2C6101F4-BEF2-475F-BB2B-2FE8141E6F80}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="JumpLand" ID="{B62E0607-8FDF-418B-9677-B4B43D40E476}">
+					<ChildrenList>
+						<Action Name="" ID="{6050077F-C231-4D7F-A800-674D5B294FBE}" ShortID="534457116">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump Landing" ID="{96BCAC4E-6252-432B-ABE5-B0791026F475}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="SkelTaunt" ID="{2A6DD0E3-5C52-4175-8EB6-C180AF83A166}">
+					<ChildrenList>
+						<Action Name="" ID="{0B9D3791-FE02-4B36-82C5-BED0AA821BF0}" ShortID="553617857">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SkelTaunt" ID="{781403A8-6352-4807-B541-CEB168C91597}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Folder Name="Interact" ID="{23FA8F30-99D1-49C5-BF1C-665418E1CFDE}" ShortID="743609383">
+					<ChildrenList>
+						<Event Name="RestoreHealth" ID="{4E78679A-BD50-4954-89B5-696924F61D0B}">
+							<ChildrenList>
+								<Action Name="" ID="{BE2D90E3-9661-4AA4-9F62-45512A884E2B}" ShortID="1039711127">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Restore Health" ID="{845E4716-762D-4BE0-9BA4-BFF88C873DCD}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="RestoreMana" ID="{5515A009-5E86-4FC7-B64B-71D2D5709B1B}">
+							<ChildrenList>
+								<Action Name="" ID="{33DEBF69-B6FC-4327-8CC4-DF29D2C56781}" ShortID="902219863">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Restore Mana" ID="{92DE653F-D1F3-46B0-8B00-2078FDA0F816}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="StoneDoorOpen" ID="{17408F5B-5F48-491E-96FC-DF8D0A5A1302}">
+							<ChildrenList>
+								<Action Name="" ID="{C2648032-DD51-4177-BE2F-8B950198BAEB}" ShortID="349563799">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Stone Door Open" ID="{CEB35332-F415-4EE6-BB5D-95222490ADE5}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="PedButtons" ID="{9D251B9A-6A0D-4E14-8455-645E8B9DE8C5}">
+							<ChildrenList>
+								<Action Name="" ID="{E4F57D9E-455F-44F3-8589-2DE93E28F9D5}" ShortID="269797960">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PedButtons" ID="{185605BE-F32D-4267-A503-E6D799BF4960}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="MetalDoorClose" ID="{06FEAFDD-7B3F-4D87-9D3F-B580E192236D}">
+							<ChildrenList>
+								<Action Name="" ID="{8335405C-62DC-4EDE-9177-DDA37F5F8AC9}" ShortID="521159400">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Metal Gate Close" ID="{40FEE5B4-4242-4355-B90C-79046BAFD9EC}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="MetalDoorOpen" ID="{859777ED-415F-4DC2-97BC-8ACBC09D9DAA}">
+							<ChildrenList>
+								<Action Name="" ID="{C03928B1-F0C2-4F8C-84D0-D35E51F282C7}" ShortID="117169132">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Metal Gate Open" ID="{C977B516-D9D5-4E0A-91ED-EA4C3E150375}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UIHover" ID="{13C60C58-2AF7-4DFF-876B-AECEA076F07A}">
+							<ChildrenList>
+								<Action Name="" ID="{FCDF4120-1A47-4969-AA6E-CB7F566D1F28}" ShortID="559288938">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI Hover" ID="{DFB40AFE-8ED9-4371-AD65-71A2325EA496}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UISelect" ID="{3336E2AA-0AAF-4587-A921-1D2B9FCB3E0C}">
+							<ChildrenList>
+								<Action Name="" ID="{0F32D78E-0B97-468C-8955-D21E90858A09}" ShortID="657890813">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI Select" ID="{26F601A8-D2ED-4077-8350-A3D2439AC0F6}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="UIBack" ID="{EFCD9FC1-0385-4C52-A679-F46871D34526}">
+							<ChildrenList>
+								<Action Name="" ID="{546F3D7A-4B51-4362-BAC3-CD4100BC6F13}" ShortID="153985805">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="UI Back" ID="{A6E73273-53D2-4A18-9E63-0946C61387AB}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Player" ID="{53711674-536A-414E-901C-1F26D833F151}" ShortID="838080142">
+					<ChildrenList>
+						<Event Name="DamageDealt" ID="{95632778-5364-4CA4-B0E4-AA7FDB396390}">
+							<ChildrenList>
+								<Action Name="" ID="{75DFBF61-05B2-4C7A-9323-64DA63FAFA0F}" ShortID="639697352">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="DamageDealt" ID="{3D2677DD-0B4C-4C70-AFE8-6D4C0A2B4D8E}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="SpellLearned" ID="{C54B9A33-E004-40A1-ADC1-7E8A3F787B5C}">
+							<ChildrenList>
+								<Action Name="" ID="{96CB5063-E6B2-4C67-948E-007336187F76}" ShortID="644107062">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Spell Learned" ID="{385BBF48-E7B2-4650-ABDA-A36ABEB5993A}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Dash" ID="{CA32CB44-CA71-4D91-9A95-74572C9AF92B}">
+							<ChildrenList>
+								<Action Name="" ID="{129237E7-EC50-4CFD-924F-38B842C7D87D}" ShortID="838442874">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Dash" ID="{EF792094-938A-4E54-B137-E45CCFDADE0B}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Enemy" ID="{77696F5E-CC41-44F0-BAEC-4EFAA84D8653}" ShortID="114896239">
+					<ChildrenList>
+						<Folder Name="Troll" ID="{61F7AFD6-AFED-4B98-B9C0-75DD7DDA816A}" ShortID="547708928">
+							<ChildrenList>
+								<Event Name="TrollDeath" ID="{497B4389-77E7-49A7-BC6E-A1B959E7C9C6}">
+									<ChildrenList>
+										<Action Name="" ID="{8B17FA23-F052-4647-8A20-01A08FBD665B}" ShortID="178822292">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Troll Death UPDATE" ID="{EBCE6997-AB26-4B43-B4CA-F1C1BC4B61D5}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollDA1" ID="{B705A828-6C62-4A54-BC4C-C079F29B0477}">
+									<ChildrenList>
+										<Action Name="" ID="{C7923D08-3A28-4E11-B4B4-7E422A96BF30}" ShortID="886342509">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Troll DA1 UPDATE" ID="{66E6CBD7-4880-4DED-8261-A5A54A710E03}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollDA2" ID="{37228A2F-834A-4C25-9085-99777EEBD385}">
+									<ChildrenList>
+										<Action Name="" ID="{6315E186-794A-421B-B164-CE387C78E9BC}" ShortID="686065339">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Troll DA2 Backhand UPDATE" ID="{377E1EEB-E176-4006-B856-D83A5C80F66B}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollDA3" ID="{D45FC81F-D823-44FB-8CC2-D9D827ED8DB8}">
+									<ChildrenList>
+										<Action Name="" ID="{5393ABF0-BA1D-4E25-B2EA-DBCE25FFBD51}" ShortID="500746927">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Troll DA2 UPDATE" ID="{C23D6BD2-9813-44AD-927F-B90589F7581B}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollSlam" ID="{9D9615E9-A636-4F05-8004-AF08EF9F77F5}">
+									<ChildrenList>
+										<Action Name="" ID="{BB6E4DD6-2747-4300-974F-742F95925C17}" ShortID="1043215987">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Troll Slam" ID="{31C4FF87-1098-4136-A29D-A12F85AA8780}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollGrunt" ID="{046538D4-DCC4-49C9-8EB5-45D3F15C77AF}">
+									<ChildrenList>
+										<Action Name="" ID="{6A002E11-CACC-43BF-8943-0A7CADBAAF1C}" ShortID="232127102">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Monster Groan" ID="{7331CE6C-46DF-4085-9768-B55335A086AB}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollFootstep" ID="{E3C48BC0-A375-4E69-8F01-DD685F347DE2}">
+									<ChildrenList>
+										<Action Name="" ID="{5F548739-07BB-489C-9514-A30B0231ADF5}" ShortID="561842632">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="TrollFootsteps" ID="{9FA24CA6-405B-4119-852B-BE3C167575DF}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+								<Event Name="TrollSurprise" ID="{6C962308-EA81-4836-948E-7A32100AC234}">
+									<ChildrenList>
+										<Action Name="" ID="{306CE839-AC6F-47AD-A04D-E132B34D7043}" ShortID="178894481">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Troll Suprise" ID="{8737F5B0-256C-4625-8EF8-79DFAE5D67B7}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
+							</ChildrenList>
+						</Folder>
+						<Event Name="FootstepsSkelMage" ID="{8BFF1B71-53B6-42A6-92FA-6A9C5A68B2CF}">
+							<ChildrenList>
+								<Action Name="" ID="{F268D6E4-B046-4137-A5D6-BF8D8D0D0AA4}" ShortID="18802219">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SkelMageStep" ID="{7ACFDA84-C355-4D10-9CF2-25A609EBF47A}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="FootstepsBoss" ID="{67A06088-4F27-4C7F-B3CC-A1FE2E392ACE}">
+							<ChildrenList>
+								<Action Name="" ID="{3DD21D26-7BC5-4668-B2D0-16AED1FC6E1F}" ShortID="234334340">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="BossStep" ID="{ED473590-464D-4638-B266-6405D71FAE6B}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="BossGroan" ID="{D9317214-CE10-45B3-BB63-E96924C519EE}">
+							<ChildrenList>
+								<Action Name="" ID="{8B9B7984-DC28-4288-8A4C-2B43E54DF9C1}" ShortID="94651015">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Monster Groan" ID="{7331CE6C-46DF-4085-9768-B55335A086AB}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="FootstepsSkelArch" ID="{A5266C4D-0D4D-4A3D-B177-357CE302E396}">
+							<ChildrenList>
+								<Action Name="" ID="{67D07C4A-3D5A-4613-A420-A91A9F653650}" ShortID="181669591">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SkelArcherStep" ID="{49FB9BFE-2F92-4310-B290-21F4B9909DC4}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="FootstepsGrass" ID="{A93E539C-BEEF-43BC-B3D0-DA1AF9ACA91F}">
+							<ChildrenList>
+								<Action Name="" ID="{50A50ADB-F85C-41F2-BEBC-91187C9F4DEA}" ShortID="291305074">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Grass Walk" ID="{318D162E-0DC8-4B06-BACD-11A544DA992A}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="BossSnarl" ID="{991F577B-3295-48E6-9CE7-7D23AB47F5B0}"/>
+						<Event Name="FootstepsEventDontUse" ID="{5EEC76F4-DE38-4DC4-B587-FB39E51717C1}">
+							<ChildrenList>
+								<Action Name="" ID="{8AEC8101-82AA-4619-8C66-2D457FCE81BC}" ShortID="39312366">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PlayerFootsteps" ID="{30F57D27-3C78-4F3D-94CC-0359151A7883}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="ArmourBreak" ID="{AC9BF525-BC06-4D46-8F8D-9DF12E1EB140}">
+							<ChildrenList>
+								<Action Name="" ID="{E9DAC16B-9B3B-4A99-94AB-10FBACCE782E}" ShortID="872935202">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Armour Break" ID="{EBEFE09E-92C8-49A7-9714-22CAFEC865B3}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="SkelMageDeath" ID="{B1C40A4F-EE7A-4243-8163-2B3FAEDE1389}">
+							<ChildrenList>
+								<Action Name="" ID="{88D9A68A-BD9D-4D1C-AC74-CFC4C9DF61BD}" ShortID="867209040">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Skel Mage Death" ID="{70296546-17E3-4AA5-8ADD-8D3D09D4CDC0}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="SkelHevyDeath" ID="{7ADAC106-73AB-45E9-AC39-E2392A8D88B4}">
+							<ChildrenList>
+								<Action Name="" ID="{4A149012-B0FC-4002-A011-B8F7E3035176}" ShortID="929047613">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Skel Heavy Death" ID="{568E96D8-BE74-4461-8778-D7595F1EBBC3}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="SkelSword" ID="{AA2A3901-E509-4361-A63E-7CABFDD96D77}">
+							<ChildrenList>
+								<Action Name="" ID="{07507421-8CC2-4CB7-B595-74FDBC504EEB}" ShortID="480474134">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="SkelSword" ID="{11C6A48B-04B4-4C0F-AC93-BAF11F90D332}" WorkUnitID="{DABB6F9D-00D8-492A-A8F7-F05E934DE942}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="PlayMusic" ID="{E560424A-B432-4E6B-97DC-D4A41ED85041}">
+					<ChildrenList>
+						<Action Name="" ID="{8C4051AE-DE44-4D41-B7FC-50F7FC3A66B7}" ShortID="306019960">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music Switch" ID="{8C2A9AED-F9ED-4920-876D-C5815F60AF71}" WorkUnitID="{935DD87A-EDF3-4EA1-90F0-FD76D46702C1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

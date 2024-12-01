@@ -1,0 +1,30 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+State	ID	Name	State Group			Notes
+	579523862	Explore	Music			
+	748895195	None	Music			
+	1656947812	PlayerDeath	Music			
+	1670748270	BossCombat	Music			
+	2764240573	Combat	Music			
+	3111020472	PlayerVictory	Music			
+	3604647259	MainMenu	Music			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	776129380	ObservatoryVerb			\Default Work Unit\Master Audio Bus\ObservatoryVerb	
+	1749787712	SmallRoomVerb			\Default Work Unit\Master Audio Bus\SmallRoomVerb	
+	2820219057	OutsideVerb			\Default Work Unit\Master Audio Bus\OutsideVerb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	48620415	Have_U_Ever_Been_Outside	Wwise RoomVerb			
+	418265525	Gentle_Program_Compressor_Minus_14dB_RMS	Wwise Compressor			
+	1990128658	Room_Medium	Wwise RoomVerb			
+	2648499661	Hall_Medium_Dark	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

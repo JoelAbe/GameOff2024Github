@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<SoundBanks>
+		<SoundBank Id="247557814" Type="User" GUID="{54D42A7E-79E0-4FDB-BF52-77368029EE82}" Language="SFX" Hash="{767B398A-FA33-0CC0-8908-9C56A662595D}">
+			<ObjectPath>\SoundBanks\Default Work Unit\Foley</ObjectPath>
+			<ShortName>Foley</ShortName>
+			<Path>Foley.bnk</Path>
+			<Media>
+				<File Id="5455552" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fire Impact.wav</ShortName>
+					<CachePath>SFX/Fire Impact_4A81A444.wem</CachePath>
+				</File>
+				<File Id="9187528" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Gravity Spell Base.wav</ShortName>
+					<CachePath>SFX/Gravity Spell Base_036C0FC3.wem</CachePath>
+				</File>
+				<File Id="16781478" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Reveal - Reveal Base.wav</ShortName>
+					<CachePath>SFX/Reveal - Reveal Base_71774CF6.wem</CachePath>
+				</File>
+				<File Id="36723843" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll Footstep 1.wav</ShortName>
+					<CachePath>SFX/Troll Footstep 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="60683476" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skeleton Footsteps 1.wav</ShortName>
+					<CachePath>SFX/Skeleton Footsteps 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="91117989" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Heal Spell Charge.wav</ShortName>
+					<CachePath>SFX/Heal Spell Charge_D888CAB7.wem</CachePath>
+				</File>
+				<File Id="105923182" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Crystal Hum.wav</ShortName>
+					<CachePath>SFX/Crystal Hum_86EDD714.wem</CachePath>
+				</File>
+				<File Id="118965934" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Lightning Impact.wav</ShortName>
+					<CachePath>SFX/Lightning Impact_9D678AE2.wem</CachePath>
+				</File>
+				<File Id="118978460" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>UI Back.wav</ShortName>
+					<CachePath>SFX/UI Back_818F3B66.wem</CachePath>
+				</File>
+				<File Id="142468467" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley - Stone Walk 4.wav</ShortName>
+					<CachePath>SFX/Foley - Stone Walk 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="148502813" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll Footstep 3.wav</ShortName>
+					<CachePath>SFX/Troll Footstep 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="149745386" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Metal Gate Open.wav</ShortName>
+					<CachePath>SFX/Metal Gate Open_818F3B66.wem</CachePath>
+				</File>
+				<File Id="157154760" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skel Heavy Death.wav</ShortName>
+					<CachePath>SFX/Skel Heavy Death_FF515736.wem</CachePath>
+				</File>
+				<File Id="157587331" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Heal Spell Cast 2.wav</ShortName>
+					<CachePath>SFX/Heal Spell Cast 2_EF505D5A.wem</CachePath>
+				</File>
+				<File Id="158334015" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Blood Spell Charge.wav</ShortName>
+					<CachePath>SFX/Blood Spell Charge_4DBCBE04.wem</CachePath>
+				</File>
+				<File Id="167678840" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skeleton Taunt 1.wav</ShortName>
+					<CachePath>SFX/Skeleton Taunt 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="175927256" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Jump.wav</ShortName>
+					<CachePath>SFX/Jump_818F3B66.wem</CachePath>
+				</File>
+				<File Id="181342943" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skeleton Footsteps 2.wav</ShortName>
+					<CachePath>SFX/Skeleton Footsteps 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="188952549" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Stone Button 2.wav</ShortName>
+					<CachePath>SFX/Stone Button 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="199954911" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skeleton Taunt 2.wav</ShortName>
+					<CachePath>SFX/Skeleton Taunt 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="209939064" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Main Menu Music.wav</ShortName>
+					<CachePath>SFX/Main Menu Music_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="216396724" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley -  Stone Walk.wav</ShortName>
+					<CachePath>SFX/Foley -  Stone Walk_818F3B66.wem</CachePath>
+				</File>
+				<File Id="228748559" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fireball Charge.wav</ShortName>
+					<CachePath>SFX/Fireball Charge_807D80B5.wem</CachePath>
+				</File>
+				<File Id="229459217" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>UI Select.wav</ShortName>
+					<CachePath>SFX/UI Select_818F3B66.wem</CachePath>
+				</File>
+				<File Id="230897603" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fireball Impact.wav</ShortName>
+					<CachePath>SFX/Fireball Impact_818F3B66.wem</CachePath>
+				</File>
+				<File Id="234551554" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Blood Spell Cast 1.wav</ShortName>
+					<CachePath>SFX/Blood Spell Cast 1_33C175F2.wem</CachePath>
+				</File>
+				<File Id="239734971" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Boss Footstep 1.wav</ShortName>
+					<CachePath>SFX/Boss Footstep 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="254885553" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Victory Theme.wav</ShortName>
+					<CachePath>SFX/Victory Theme_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="260316979" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Lightning Cast.wav</ShortName>
+					<CachePath>SFX/Lightning Cast_88D8B468.wem</CachePath>
+				</File>
+				<File Id="268057939" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fireball Cast.wav</ShortName>
+					<CachePath>SFX/Fireball Cast_61F357A9.wem</CachePath>
+				</File>
+				<File Id="268234420" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Heal Spell Base.wav</ShortName>
+					<CachePath>SFX/Heal Spell Base_CB22CF29.wem</CachePath>
+				</File>
+				<File Id="300484719" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fireball Base.wav</ShortName>
+					<CachePath>SFX/Fireball Base_49DCE7F8.wem</CachePath>
+				</File>
+				<File Id="314655933" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Armour Break.wav</ShortName>
+					<CachePath>SFX/Armour Break_D6F9D63E.wem</CachePath>
+				</File>
+				<File Id="323992068" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Lightning Charge.wav</ShortName>
+					<CachePath>SFX/Lightning Charge_D18ECF7A.wem</CachePath>
+				</File>
+				<File Id="328550892" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Metal Gate Close.wav</ShortName>
+					<CachePath>SFX/Metal Gate Close_818F3B66.wem</CachePath>
+				</File>
+				<File Id="333747837" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Blood Spell Base.wav</ShortName>
+					<CachePath>SFX/Blood Spell Base_FE3692B5.wem</CachePath>
+				</File>
+				<File Id="338941225" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ice Impact.wav</ShortName>
+					<CachePath>SFX/Ice Impact_BFA60ED2.wem</CachePath>
+				</File>
+				<File Id="343176498" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Dash.wav</ShortName>
+					<CachePath>SFX/Dash_818F3B66.wem</CachePath>
+				</File>
+				<File Id="345200592" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Arcane - Arcane Base.wav</ShortName>
+					<CachePath>SFX/Arcane - Arcane Base_437E4BA9.wem</CachePath>
+				</File>
+				<File Id="349933552" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ice - Ice Spell Charge.wav</ShortName>
+					<CachePath>SFX/Ice - Ice Spell Charge_F1676614.wem</CachePath>
+				</File>
+				<File Id="359415955" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley -  Grass Walk 1.wav</ShortName>
+					<CachePath>SFX/Foley -  Grass Walk 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="363385544" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explore 1.1 Flute full.wav</ShortName>
+					<CachePath>SFX/Explore 1.1 Flute full_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="403698341" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fire Spell NU.wav</ShortName>
+					<CachePath>SFX/Fire Spell NU_74835C79.wem</CachePath>
+				</File>
+				<File Id="409241527" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explore 1.1 Solo Strings.wav</ShortName>
+					<CachePath>SFX/Explore 1.1 Solo Strings_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="426048135" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Monster Groan.wav</ShortName>
+					<CachePath>SFX/Monster Groan_71E8321D.wem</CachePath>
+				</File>
+				<File Id="439842004" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skeleton Mage Footstep 1.wav</ShortName>
+					<CachePath>SFX/Skeleton Mage Footstep 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="441764282" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Heartbeat Damaged.wav</ShortName>
+					<CachePath>SFX/Heartbeat Damaged_AA663DAB.wem</CachePath>
+				</File>
+				<File Id="446951625" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Amb - Cave Drip Amb.wav</ShortName>
+					<CachePath>SFX/Amb - Cave Drip Amb_C9E93513.wem</CachePath>
+				</File>
+				<File Id="448393991" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Amb - Ocean Amb.wav</ShortName>
+					<CachePath>SFX/Amb - Ocean Amb_F02C02ED.wem</CachePath>
+				</File>
+				<File Id="453445796" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fire - Fire Spell Charge Crackle.wav</ShortName>
+					<CachePath>SFX/Fire - Fire Spell Charge Crackle_E092F308.wem</CachePath>
+				</File>
+				<File Id="489505204" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Reveal - Reveal Spell.wav</ShortName>
+					<CachePath>SFX/Reveal - Reveal Spell_D983552E.wem</CachePath>
+				</File>
+				<File Id="499189809" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Impact Flesh 1.wav</ShortName>
+					<CachePath>SFX/Impact Flesh 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="504630589" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Sword Swing 2.wav</ShortName>
+					<CachePath>SFX/Sword Swing 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="511114207" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley - Stone Walk 5.wav</ShortName>
+					<CachePath>SFX/Foley - Stone Walk 5_818F3B66.wem</CachePath>
+				</File>
+				<File Id="547315710" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Combat Death Transition.wav</ShortName>
+					<CachePath>SFX/Combat Death Transition_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="552894498" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley - Stone Walk 3.wav</ShortName>
+					<CachePath>SFX/Foley - Stone Walk 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="562569639" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Stone Button 1.wav</ShortName>
+					<CachePath>SFX/Stone Button 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="563678138" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>UI Hover.wav</ShortName>
+					<CachePath>SFX/UI Hover_7BB52B48.wem</CachePath>
+				</File>
+				<File Id="566675155" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explore 1.1 Wind.wav</ShortName>
+					<CachePath>SFX/Explore 1.1 Wind_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="572996978" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explore Nu.wav</ShortName>
+					<CachePath>SFX/Explore Nu_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="598362907" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Victory Transition.wav</ShortName>
+					<CachePath>SFX/Victory Transition_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="604679951" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll DA2 Backhand UPDATE.wav</ShortName>
+					<CachePath>SFX/Troll DA2 Backhand UPDATE_818F3B66.wem</CachePath>
+				</File>
+				<File Id="608164281" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ice - Ice Spell.wav</ShortName>
+					<CachePath>SFX/Ice - Ice Spell_BC7A32D6.wem</CachePath>
+				</File>
+				<File Id="611122393" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Amb - Outside Amb.wav</ShortName>
+					<CachePath>SFX/Amb - Outside Amb_7B2ADA4B.wem</CachePath>
+				</File>
+				<File Id="651598057" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explore 1.1 String Swell.wav</ShortName>
+					<CachePath>SFX/Explore 1.1 String Swell_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="653387534" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Arcane - Arcane Bolt.wav</ShortName>
+					<CachePath>SFX/Arcane - Arcane Bolt_3CA99F91.wem</CachePath>
+				</File>
+				<File Id="653994515" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll Footstep 2.wav</ShortName>
+					<CachePath>SFX/Troll Footstep 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="656971857" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll Slam.wav</ShortName>
+					<CachePath>SFX/Troll Slam_555DFBC0.wem</CachePath>
+				</File>
+				<File Id="666580836" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Amb - Wind Gusts.wav</ShortName>
+					<CachePath>SFX/Amb - Wind Gusts_69F3F165.wem</CachePath>
+				</File>
+				<File Id="677658560" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Reveal - Reveal Charge.wav</ShortName>
+					<CachePath>SFX/Reveal - Reveal Charge_D3F33136.wem</CachePath>
+				</File>
+				<File Id="685803587" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Restore Mana.wav</ShortName>
+					<CachePath>SFX/Restore Mana_818F3B66.wem</CachePath>
+				</File>
+				<File Id="690858828" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Jump Landing.wav</ShortName>
+					<CachePath>SFX/Jump Landing_818F3B66.wem</CachePath>
+				</File>
+				<File Id="710699785" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll Suprise.wav</ShortName>
+					<CachePath>SFX/Troll Suprise_818F3B66.wem</CachePath>
+				</File>
+				<File Id="728296804" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Gravity Spell Charge.wav</ShortName>
+					<CachePath>SFX/Gravity Spell Charge_6CB6A059.wem</CachePath>
+				</File>
+				<File Id="732502525" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Stone Button 3.wav</ShortName>
+					<CachePath>SFX/Stone Button 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="751125016" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Blood Spell Impact.wav</ShortName>
+					<CachePath>SFX/Blood Spell Impact_D9D7DB45.wem</CachePath>
+				</File>
+				<File Id="753620668" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Impact Flesh 2.wav</ShortName>
+					<CachePath>SFX/Impact Flesh 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="804880970" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ice - Ice Spell Base.wav</ShortName>
+					<CachePath>SFX/Ice - Ice Spell Base_2D6792CD.wem</CachePath>
+				</File>
+				<File Id="822947439" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll Death UPDATE.wav</ShortName>
+					<CachePath>SFX/Troll Death UPDATE_818F3B66.wem</CachePath>
+				</File>
+				<File Id="826318091" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Explore 1.1 Guitar.wav</ShortName>
+					<CachePath>SFX/Explore 1.1 Guitar_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="829906749" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Glyph COMBAT 2.2 No Cell.wav</ShortName>
+					<CachePath>SFX/Glyph COMBAT 2.2 No Cell_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="858923257" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley - Grass Walk 2.wav</ShortName>
+					<CachePath>SFX/Foley - Grass Walk 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="861886287" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll DA1 UPDATE.wav</ShortName>
+					<CachePath>SFX/Troll DA1 UPDATE_9E8B25D9.wem</CachePath>
+				</File>
+				<File Id="876222904" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Gravity Spell Cast.wav</ShortName>
+					<CachePath>SFX/Gravity Spell Cast_3069EE55.wem</CachePath>
+				</File>
+				<File Id="906332682" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Arcane Charge.wav</ShortName>
+					<CachePath>SFX/Arcane Charge_EBADCB19.wem</CachePath>
+				</File>
+				<File Id="908751861" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley - Grass Walk 3.wav</ShortName>
+					<CachePath>SFX/Foley - Grass Walk 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="918150706" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skeleton Mage Footstep 2.wav</ShortName>
+					<CachePath>SFX/Skeleton Mage Footstep 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="922313103" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Glyph BOSS 2.1.wav</ShortName>
+					<CachePath>SFX/Glyph BOSS 2.1_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="955244076" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Sword Swing 1.wav</ShortName>
+					<CachePath>SFX/Sword Swing 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="969612360" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Skel Mage Death.wav</ShortName>
+					<CachePath>SFX/Skel Mage Death_615CEC3A.wem</CachePath>
+				</File>
+				<File Id="977525048" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Glyph COMBAT 2.2.wav</ShortName>
+					<CachePath>SFX/Glyph COMBAT 2.2_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="979460007" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Spell Learned.wav</ShortName>
+					<CachePath>SFX/Spell Learned_A5C8A4F8.wem</CachePath>
+				</File>
+				<File Id="1012361956" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Restore Health.wav</ShortName>
+					<CachePath>SFX/Restore Health_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1013731342" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Fire - Fire Spell Loop Base.wav</ShortName>
+					<CachePath>SFX/Fire - Fire Spell Loop Base_D420F956.wem</CachePath>
+				</File>
+				<File Id="1020142252" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Boss Footstep 2.wav</ShortName>
+					<CachePath>SFX/Boss Footstep 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1035007236" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Troll DA2 UPDATE.wav</ShortName>
+					<CachePath>SFX/Troll DA2 UPDATE_F3EF5C18.wem</CachePath>
+				</File>
+				<File Id="1045111120" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Amb - Cave Amb.wav</ShortName>
+					<CachePath>SFX/Amb - Cave Amb_657010A8.wem</CachePath>
+				</File>
+				<File Id="1049128440" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Stone Door Open.wav</ShortName>
+					<CachePath>SFX/Stone Door Open_44696175.wem</CachePath>
+				</File>
+			</Media>
+			<Plugins>
+				<ShareSets>
+					<Plugin Id="418265525" Name="Gentle_Program_Compressor_Minus_14dB_RMS" ObjectPath="\Effects\Factory Effects\Compressor\Gentle_Program_Compressor_Minus_14dB_RMS" GUID="{1595E6B0-DD58-4363-A3F0-DF0C96EC7C17}" LibName="Wwise Compressor" LibId="7077891"/>
+					<Plugin Id="3604890626" Name="High_Pass_60Hz" ObjectPath="\Effects\Factory Effects\Parametric EQ\High Pass Filters\High_Pass_60Hz" GUID="{F9627628-0B10-4272-BC30-D4C20423CB38}" LibName="Wwise Parametric EQ" LibId="6881283"/>
+					<Plugin Id="4286906788" Name="Gentle_Program_Compressor_Minus_20dB_RMS" ObjectPath="\Effects\Factory Effects\Compressor\Gentle_Program_Compressor_Minus_20dB_RMS" GUID="{D3F1F88E-4123-4C05-946B-1B036BAC2DFD}" LibName="Wwise Compressor" LibId="7077891"/>
+				</ShareSets>
+			</Plugins>
+			<Events>
+				<Event Id="797406576" Name="ArcaneBase" ObjectPath="\Events\Default Work Unit\Spells\ArcaneBase" GUID="{E5B313F3-5ABC-4EA6-B0A0-08B48363696B}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="345200592"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3141815746" Name="ArcaneCast" ObjectPath="\Events\Default Work Unit\Spells\ArcaneCast" GUID="{885312F0-2D28-4EE1-B663-0A0B1B6A2116}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="2.0696032" DurationMax="2.3257365">
+					<MediaRefs>
+						<MediaRef Id="653387534"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2003188291" Name="ArcaneCharge" ObjectPath="\Events\Default Work Unit\Spells\ArcaneCharge" GUID="{61DC9CE8-A58E-4A8A-9483-AD0865631E65}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="906332682"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3733210101" Name="ArcaneImpact" ObjectPath="\Events\Default Work Unit\Spells\ArcaneImpact" GUID="{EB64C7AF-051B-4576-9677-0A2299D806C5}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="103456382" Name="ArmourBreak" ObjectPath="\Events\Default Work Unit\Enemy\ArmourBreak" GUID="{AC9BF525-BC06-4D46-8F8D-9DF12E1EB140}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.1440151" DurationMax="1.1440151">
+					<MediaRefs>
+						<MediaRef Id="314655933"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2007924884" Name="BloodBase" ObjectPath="\Events\Default Work Unit\Spells\BloodBase" GUID="{FBA4B9DD-F861-4290-9A30-242536E0E3FB}" DurationType="OneShot" DurationMin="16.142313" DurationMax="16.142313">
+					<MediaRefs>
+						<MediaRef Id="333747837"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="57367014" Name="BloodCast" ObjectPath="\Events\Default Work Unit\Spells\BloodCast" GUID="{AF3384C5-747F-4808-958E-6B36F24C89F1}" DurationType="OneShot" DurationMin="4.3859863" DurationMax="4.3859863">
+					<MediaRefs>
+						<MediaRef Id="234551554"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2683855279" Name="BloodCharge" ObjectPath="\Events\Default Work Unit\Spells\BloodCharge" GUID="{A5436E62-92F7-466A-A421-C37321179B5E}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="158334015"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="439362369" Name="BloodImpact" ObjectPath="\Events\Default Work Unit\Spells\BloodImpact" GUID="{F6436D1D-D9BD-425E-9AAF-16442005CAEF}" DurationType="OneShot" DurationMin="1.4380533" DurationMax="1.4380533">
+					<MediaRefs>
+						<MediaRef Id="751125016"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2048790625" Name="BossGroan" ObjectPath="\Events\Default Work Unit\Enemy\BossGroan" GUID="{D9317214-CE10-45B3-BB63-E96924C519EE}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.1862462" DurationMax="1.3729097">
+					<MediaRefs>
+						<MediaRef Id="426048135"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2853547616" Name="BossSnarl" ObjectPath="\Events\Default Work Unit\Enemy\BossSnarl" GUID="{991F577B-3295-48E6-9CE7-7D23AB47F5B0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="315106662" Name="CaveAmb" ObjectPath="\Events\Default Work Unit\Amb\CaveAmb" GUID="{FE4E161F-9955-467E-A2B7-6CA9A8D03288}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="1045111120"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1931732237" Name="CaveDripAmb" ObjectPath="\Events\Default Work Unit\Amb\CaveDripAmb" GUID="{432AD513-1333-4737-90AB-48629EFA8E66}" MaxAttenuation="100" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="446951625"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="8651643" Name="CrystalAmb" ObjectPath="\Events\Default Work Unit\Amb\CrystalAmb" GUID="{A8765A4D-4EB4-467E-BB12-78459CCD8E8F}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="105923182"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="423073936" Name="DamageDealt" ObjectPath="\Events\Default Work Unit\Player\DamageDealt" GUID="{95632778-5364-4CA4-B0E4-AA7FDB396390}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.72446954" DurationMax="0.9982665">
+					<MediaRefs>
+						<MediaRef Id="499189809"/>
+						<MediaRef Id="753620668"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1942692385" Name="Dash" ObjectPath="\Events\Default Work Unit\Player\Dash" GUID="{CA32CB44-CA71-4D91-9A95-74572C9AF92B}" DurationType="OneShot" DurationMin="0.9083979" DurationMax="1.035669">
+					<MediaRefs>
+						<MediaRef Id="343176498"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2055385033" Name="FootstepsBoss" ObjectPath="\Events\Default Work Unit\Enemy\FootstepsBoss" GUID="{67A06088-4F27-4C7F-B3CC-A1FE2E392ACE}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.5351612" DurationMax="0.7817136">
+					<MediaRefs>
+						<MediaRef Id="239734971"/>
+						<MediaRef Id="1020142252"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2802624880" Name="FootstepsEventDontUse" ObjectPath="\Events\Default Work Unit\Enemy\FootstepsEventDontUse" GUID="{5EEC76F4-DE38-4DC4-B587-FB39E51717C1}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0" DurationMax="0">
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="515596832" Name="FootstepsGrass" ObjectPath="\Events\Default Work Unit\Enemy\FootstepsGrass" GUID="{A93E539C-BEEF-43BC-B3D0-DA1AF9ACA91F}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.6151021" DurationMax="0.69042885">
+					<MediaRefs>
+						<MediaRef Id="359415955"/>
+						<MediaRef Id="858923257"/>
+						<MediaRef Id="908751861"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3202481383" Name="FootstepsSkelArch" ObjectPath="\Events\Default Work Unit\Enemy\FootstepsSkelArch" GUID="{A5266C4D-0D4D-4A3D-B177-357CE302E396}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.6059254" DurationMax="0.87239015">
+					<MediaRefs>
+						<MediaRef Id="60683476"/>
+						<MediaRef Id="181342943"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3819753421" Name="FootstepsSkelMage" ObjectPath="\Events\Default Work Unit\Enemy\FootstepsSkelMage" GUID="{8BFF1B71-53B6-42A6-92FA-6A9C5A68B2CF}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.5982742" DurationMax="0.73358977">
+					<MediaRefs>
+						<MediaRef Id="439842004"/>
+						<MediaRef Id="918150706"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2676316277" Name="FootstepsStone" ObjectPath="\Events\Default Work Unit\FootstepsStone" GUID="{67F15B9A-466F-477B-95AB-076FF13F86CA}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.34190464" DurationMax="0.42582503">
+					<MediaRefs>
+						<MediaRef Id="142468467"/>
+						<MediaRef Id="216396724"/>
+						<MediaRef Id="511114207"/>
+						<MediaRef Id="552894498"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4095678356" Name="GravBase" ObjectPath="\Events\Default Work Unit\Spells\GravBase" GUID="{BB323306-3116-4749-B622-F600040AF7D9}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="9187528"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2145120486" Name="GravCast" ObjectPath="\Events\Default Work Unit\Spells\GravCast" GUID="{62D71A1B-F5BA-40F2-975A-98744203D2BE}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="2.9261346" DurationMax="3.861058">
+					<MediaRefs>
+						<MediaRef Id="876222904"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2149339311" Name="GravCharge" ObjectPath="\Events\Default Work Unit\Spells\GravCharge" GUID="{23A8728B-70E2-4E30-B203-D323873BEA46}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="728296804"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4161394640" Name="HealBase" ObjectPath="\Events\Default Work Unit\Spells\HealBase" GUID="{F1FCBBBF-7740-40CB-832B-6F7AF06BC9AA}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="268234420"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2210836514" Name="HealCast" ObjectPath="\Events\Default Work Unit\Spells\HealCast" GUID="{AE7A4B22-89F1-4C20-92B3-29B78BB225EC}" DurationType="OneShot" DurationMin="3.140631" DurationMax="4.1440873">
+					<MediaRefs>
+						<MediaRef Id="157587331"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2625864099" Name="HealCharge" ObjectPath="\Events\Default Work Unit\Spells\HealCharge" GUID="{70571334-4C59-43D7-98B1-0726DA6C8F16}" DurationType="OneShot" DurationMin="16.24288" DurationMax="16.24288">
+					<MediaRefs>
+						<MediaRef Id="91117989"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4264306452" Name="HeartbeatDamaged" ObjectPath="\Events\Default Work Unit\HeartbeatDamaged" GUID="{D23DB7D7-70A4-440C-AB08-CEEB96947F85}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="441764282"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="494539749" Name="IceBase" ObjectPath="\Events\Default Work Unit\Spells\IceBase" GUID="{0A3769F2-272C-4679-A368-0A4C6D163577}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="804880970"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2455543531" Name="IceCast" ObjectPath="\Events\Default Work Unit\Spells\IceCast" GUID="{F2FA154C-F763-412A-937A-AF53E971D1F1}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.0390202" DurationMax="1.4693964">
+					<MediaRefs>
+						<MediaRef Id="608164281"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3616309158" Name="IceCharge" ObjectPath="\Events\Default Work Unit\Spells\IceCharge" GUID="{AD4738BD-AB03-4C31-A805-7B207BBFED8B}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="349933552"/>
+					</MediaRefs>
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="3604890626"/>
+						</ShareSets>
+					</PluginRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2691024872" Name="IceImpact" ObjectPath="\Events\Default Work Unit\Spells\IceImpact" GUID="{750B6E2A-D71D-4F93-8023-E062DE610DE1}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.0948166" DurationMax="1.3627514">
+					<MediaRefs>
+						<MediaRef Id="338941225"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3833651337" Name="Jump" ObjectPath="\Events\Default Work Unit\Jump" GUID="{16C7056C-D457-4196-8CF9-006FBD08FBA5}" DurationType="OneShot" DurationMin="0.882028" DurationMax="1.2160728">
+					<MediaRefs>
+						<MediaRef Id="175927256"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1548130050" Name="JumpLand" ObjectPath="\Events\Default Work Unit\JumpLand" GUID="{B62E0607-8FDF-418B-9677-B4B43D40E476}" DurationType="OneShot" DurationMin="0.8693825" DurationMax="1.233761">
+					<MediaRefs>
+						<MediaRef Id="690858828"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="841120466" Name="LightningBase" ObjectPath="\Events\Default Work Unit\Spells\LightningBase" GUID="{4BA5E3B1-60C6-47C2-947A-2642170E8572}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="345200592"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3185529644" Name="LightningCast" ObjectPath="\Events\Default Work Unit\Spells\LightningCast" GUID="{B5CEF236-5E34-4478-BF0C-DF78D22711A4}" DurationType="OneShot" DurationMin="3.3746712" DurationMax="3.3746712">
+					<MediaRefs>
+						<MediaRef Id="260316979"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2337953225" Name="LightningCharge" ObjectPath="\Events\Default Work Unit\Spells\LightningCharge" GUID="{DC3EFBEC-17F7-4938-B011-1405C738CEA6}" DurationType="OneShot" DurationMin="18.851679" DurationMax="18.851679">
+					<MediaRefs>
+						<MediaRef Id="323992068"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="231561627" Name="LightningImpact" ObjectPath="\Events\Default Work Unit\Spells\LightningImpact" GUID="{3BEC1253-B4ED-49FA-980D-A9AB1DFA210D}" DurationType="OneShot" DurationMin="1.3020376" DurationMax="1.3020376">
+					<MediaRefs>
+						<MediaRef Id="118965934"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1892271593" Name="MercBase" ObjectPath="\Events\Default Work Unit\Spells\MercBase" GUID="{951C73BC-AAD0-4C1D-A23F-A445F5F75D93}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="300484719"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3853172191" Name="MercCast" ObjectPath="\Events\Default Work Unit\Spells\MercCast" GUID="{EF4D52BF-F0BE-42CC-8BDD-9D28B1DDFAC8}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="8.625046" DurationMax="12.240005">
+					<MediaRefs>
+						<MediaRef Id="268057939"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="971425650" Name="MercCharge" ObjectPath="\Events\Default Work Unit\Spells\MercCharge" GUID="{6F5D2451-F28F-4D5F-81D8-E50023FA37DC}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="228748559"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="235570116" Name="MercImpact" ObjectPath="\Events\Default Work Unit\Spells\MercImpact" GUID="{8E655D66-7F66-4982-B65B-FD7ABC2BEC66}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="3.6557143" DurationMax="3.6557143">
+					<MediaRefs>
+						<MediaRef Id="230897603"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1870896934" Name="MetalDoorClose" ObjectPath="\Events\Default Work Unit\Interact\MetalDoorClose" GUID="{06FEAFDD-7B3F-4D87-9D3F-B580E192236D}" DurationType="OneShot" DurationMin="2.3768253" DurationMax="2.3768253">
+					<MediaRefs>
+						<MediaRef Id="328550892"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="295813234" Name="MetalDoorOpen" ObjectPath="\Events\Default Work Unit\Interact\MetalDoorOpen" GUID="{859777ED-415F-4DC2-97BC-8ACBC09D9DAA}" DurationType="OneShot" DurationMin="2.3768253" DurationMax="2.3768253">
+					<MediaRefs>
+						<MediaRef Id="149745386"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1258020691" Name="OceanAmb" ObjectPath="\Events\Default Work Unit\Amb\OceanAmb" GUID="{33CEB502-9522-4B79-94F6-12858015FF68}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="448393991"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="732416326" Name="OutsideAmb" ObjectPath="\Events\Default Work Unit\Amb\OutsideAmb" GUID="{63DF5908-2A5B-459A-84A1-F110B51381F0}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="611122393"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="402255635" Name="PedButtons" ObjectPath="\Events\Default Work Unit\Interact\PedButtons" GUID="{9D251B9A-6A0D-4E14-8455-645E8B9DE8C5}" DurationType="OneShot" DurationMin="1.1487391" DurationMax="1.6302025">
+					<MediaRefs>
+						<MediaRef Id="188952549"/>
+						<MediaRef Id="562569639"/>
+						<MediaRef Id="732502525"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="417627684" Name="PlayMusic" ObjectPath="\Events\Default Work Unit\PlayMusic" GUID="{E560424A-B432-4E6B-97DC-D4A41ED85041}" DurationType="Infinite">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3991942870" Id="1670748270" GUID="{625C3B94-A4FE-4B7F-B10B-0FDE2946F4C2}"/>
+							<MediaRefs>
+								<MediaRef Id="829906749"/>
+								<MediaRef Id="922313103"/>
+								<MediaRef Id="977525048"/>
+							</MediaRefs>
+							<PluginRefs>
+								<ShareSets>
+									<PluginRef Id="418265525"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3991942870" Id="2764240573" GUID="{97992ED8-640A-4AFC-960F-0B3C5A7D8C54}"/>
+							<MediaRefs>
+								<MediaRef Id="829906749"/>
+								<MediaRef Id="977525048"/>
+							</MediaRefs>
+							<PluginRefs>
+								<ShareSets>
+									<PluginRef Id="418265525"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3991942870" Id="579523862" GUID="{DD9F1E2D-204B-4F9C-B241-8B6DB8C3EAD1}"/>
+							<MediaRefs>
+								<MediaRef Id="363385544"/>
+								<MediaRef Id="409241527"/>
+								<MediaRef Id="566675155"/>
+								<MediaRef Id="572996978"/>
+								<MediaRef Id="651598057"/>
+								<MediaRef Id="826318091"/>
+							</MediaRefs>
+							<PluginRefs>
+								<ShareSets>
+									<PluginRef Id="418265525"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3991942870" Id="1656947812" GUID="{FAA95573-1EB4-44AA-9AAA-1A8F925E9256}"/>
+							<MediaRefs>
+								<MediaRef Id="547315710"/>
+							</MediaRefs>
+							<PluginRefs>
+								<ShareSets>
+									<PluginRef Id="418265525"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3991942870" Id="3111020472" GUID="{1435AB7E-AC32-4052-80F7-E06A13B308D6}"/>
+							<MediaRefs>
+								<MediaRef Id="254885553"/>
+								<MediaRef Id="363385544"/>
+								<MediaRef Id="409241527"/>
+								<MediaRef Id="566675155"/>
+								<MediaRef Id="572996978"/>
+								<MediaRef Id="598362907"/>
+								<MediaRef Id="651598057"/>
+								<MediaRef Id="826318091"/>
+							</MediaRefs>
+							<PluginRefs>
+								<ShareSets>
+									<PluginRef Id="418265525"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="State" GroupId="3991942870" Id="3604647259" GUID="{71156013-F77A-4C7D-BC9A-E7455556647A}"/>
+							<MediaRefs>
+								<MediaRef Id="209939064"/>
+							</MediaRefs>
+							<PluginRefs>
+								<ShareSets>
+									<PluginRef Id="418265525"/>
+								</ShareSets>
+							</PluginRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="417547627" Name="RestoreHealth" ObjectPath="\Events\Default Work Unit\Interact\RestoreHealth" GUID="{4E78679A-BD50-4954-89B5-696924F61D0B}" DurationType="OneShot" DurationMin="0.85691833" DurationMax="1.1807714">
+					<MediaRefs>
+						<MediaRef Id="1012361956"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4225469016" Name="RestoreMana" ObjectPath="\Events\Default Work Unit\Interact\RestoreMana" GUID="{5515A009-5E86-4FC7-B64B-71D2D5709B1B}" DurationType="OneShot" DurationMin="1.942555" DurationMax="2.5264683">
+					<MediaRefs>
+						<MediaRef Id="685803587"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1673117989" Name="RevealBase" ObjectPath="\Events\Default Work Unit\Spells\RevealBase" GUID="{B255362B-7BC1-4C49-9158-3B00DA807CBC}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="16781478"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3634018603" Name="RevealCast" ObjectPath="\Events\Default Work Unit\Spells\RevealCast" GUID="{13A0955D-0B10-49AE-B917-E111EB2D660F}" DurationType="OneShot" DurationMin="1.7515376" DurationMax="2.278033">
+					<MediaRefs>
+						<MediaRef Id="489505204"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1522260198" Name="RevealCharge" ObjectPath="\Events\Default Work Unit\Spells\RevealCharge" GUID="{5C30639B-F9DA-418B-922D-8280E1888EE9}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="677658560"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1948643480" Name="SkelHevyDeath" ObjectPath="\Events\Default Work Unit\Enemy\SkelHevyDeath" GUID="{7ADAC106-73AB-45E9-AC39-E2392A8D88B4}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.604196" DurationMax="2.1167493">
+					<MediaRefs>
+						<MediaRef Id="157154760"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="458272512" Name="SkelMageDeath" ObjectPath="\Events\Default Work Unit\Enemy\SkelMageDeath" GUID="{B1C40A4F-EE7A-4243-8163-2B3FAEDE1389}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.6117548" DurationMax="2.0649862">
+					<MediaRefs>
+						<MediaRef Id="969612360"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3610078967" Name="SkelSword" ObjectPath="\Events\Default Work Unit\Enemy\SkelSword" GUID="{AA2A3901-E509-4361-A63E-7CABFDD96D77}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.3371923" DurationMax="0.48575813">
+					<MediaRefs>
+						<MediaRef Id="504630589"/>
+						<MediaRef Id="955244076"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3233040040" Name="SkelTaunt" ObjectPath="\Events\Default Work Unit\SkelTaunt" GUID="{2A6DD0E3-5C52-4175-8EB6-C180AF83A166}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="3.1102877" DurationMax="4.983949">
+					<MediaRefs>
+						<MediaRef Id="167678840"/>
+						<MediaRef Id="199954911"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1151199314" Name="SpellLearned" ObjectPath="\Events\Default Work Unit\Player\SpellLearned" GUID="{C54B9A33-E004-40A1-ADC1-7E8A3F787B5C}" DurationType="OneShot" DurationMin="8.517289" DurationMax="8.517289">
+					<MediaRefs>
+						<MediaRef Id="979460007"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1022303988" Name="StoneDoorOpen" ObjectPath="\Events\Default Work Unit\Interact\StoneDoorOpen" GUID="{17408F5B-5F48-491E-96FC-DF8D0A5A1302}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="2.9946122" DurationMax="2.9946122">
+					<MediaRefs>
+						<MediaRef Id="1049128440"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3214343592" Name="TrollDA1" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollDA1" GUID="{B705A828-6C62-4A54-BC4C-C079F29B0477}" DurationType="OneShot" DurationMin="3.0721948" DurationMax="3.0721948">
+					<MediaRefs>
+						<MediaRef Id="861886287"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3214343595" Name="TrollDA2" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollDA2" GUID="{37228A2F-834A-4C25-9085-99777EEBD385}" DurationType="OneShot" DurationMin="2.6869614" DurationMax="2.6869614">
+					<MediaRefs>
+						<MediaRef Id="604679951"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3214343594" Name="TrollDA3" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollDA3" GUID="{D45FC81F-D823-44FB-8CC2-D9D827ED8DB8}" DurationType="OneShot" DurationMin="3.5927339" DurationMax="3.5927339">
+					<MediaRefs>
+						<MediaRef Id="1035007236"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3148167616" Name="TrollDeath" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollDeath" GUID="{497B4389-77E7-49A7-BC6E-A1B959E7C9C6}" DurationType="OneShot" DurationMin="6.787392" DurationMax="6.787392">
+					<MediaRefs>
+						<MediaRef Id="822947439"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="835295888" Name="TrollFootstep" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollFootstep" GUID="{E3C48BC0-A375-4E69-8F01-DD685F347DE2}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="0.7804708" DurationMax="1.0448167">
+					<MediaRefs>
+						<MediaRef Id="36723843"/>
+						<MediaRef Id="148502813"/>
+						<MediaRef Id="653994515"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="425707612" Name="TrollGrunt" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollGrunt" GUID="{046538D4-DCC4-49C9-8EB5-45D3F15C77AF}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.1862462" DurationMax="1.3729097">
+					<MediaRefs>
+						<MediaRef Id="426048135"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2357130601" Name="TrollSlam" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollSlam" GUID="{9D9615E9-A636-4F05-8004-AF08EF9F77F5}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="5.7811103" DurationMax="5.7811103">
+					<MediaRefs>
+						<MediaRef Id="656971857"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="973022319" Name="TrollSurprise" ObjectPath="\Events\Default Work Unit\Enemy\Troll\TrollSurprise" GUID="{6C962308-EA81-4836-948E-7A32100AC234}" DurationType="OneShot" DurationMin="6.108254" DurationMax="6.108254">
+					<MediaRefs>
+						<MediaRef Id="710699785"/>
+					</MediaRefs>
+					<PluginRefs>
+						<ShareSets>
+							<PluginRef Id="4286906788"/>
+						</ShareSets>
+					</PluginRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="213557190" Name="UIBack" ObjectPath="\Events\Default Work Unit\Interact\UIBack" GUID="{EFCD9FC1-0385-4C52-A679-F46871D34526}" DurationType="OneShot" DurationMin="0.32319728" DurationMax="0.32319728">
+					<MediaRefs>
+						<MediaRef Id="118978460"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="199363535" Name="UIHover" ObjectPath="\Events\Default Work Unit\Interact\UIHover" GUID="{13C60C58-2AF7-4DFF-876B-AECEA076F07A}" DurationType="OneShot" DurationMin="0.40462083" DurationMax="0.40462083">
+					<MediaRefs>
+						<MediaRef Id="563678138"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1816659375" Name="UISelect" ObjectPath="\Events\Default Work Unit\Interact\UISelect" GUID="{3336E2AA-0AAF-4587-A921-1D2B9FCB3E0C}" DurationType="OneShot" DurationMin="0.22138321" DurationMax="0.22138321">
+					<MediaRefs>
+						<MediaRef Id="229459217"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="3433726358" Name="VortexBase" ObjectPath="\Events\Default Work Unit\Spells\VortexBase" GUID="{C067A4DD-9D55-4C8C-BB3C-9427DA2C1762}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="1013731342"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="2020052096" Name="VortexCast" ObjectPath="\Events\Default Work Unit\Spells\VortexCast" GUID="{3B2E3C0C-2992-417E-82BD-5050C51441D0}" MaxAttenuation="3000" DurationType="OneShot" DurationMin="1.5411702" DurationMax="2.251198">
+					<MediaRefs>
+						<MediaRef Id="403698341"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="942103461" Name="VortexCharge" ObjectPath="\Events\Default Work Unit\Spells\VortexCharge" GUID="{FEDA2E91-AB47-45EA-A64D-668CE46FAC5D}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="453445796"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="2820219057" Name="OutsideVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\OutsideVerb" GUID="{A63C819D-3B77-462F-8806-9BB8BA320D71}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="4209329831" Name="VortexImpact" ObjectPath="\Events\Default Work Unit\Spells\VortexImpact" GUID="{A04E8553-CCD3-4A7A-800E-3B5D575AF242}" MaxAttenuation="8000" DurationType="OneShot" DurationMin="2.4179728" DurationMax="3.4314015">
+					<MediaRefs>
+						<MediaRef Id="5455552"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="776129380" Name="ObservatoryVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\ObservatoryVerb" GUID="{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}"/>
+					</AuxBusRefs>
+				</Event>
+				<Event Id="1582388014" Name="WindGust" ObjectPath="\Events\Default Work Unit\Amb\WindGust" GUID="{80B67FEE-C019-47FA-BDBD-EDA34A1780DC}" MaxAttenuation="3000" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="666580836"/>
+					</MediaRefs>
+					<AuxBusRefs>
+						<AuxBusRef Id="1749787712" Name="SmallRoomVerb" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\SmallRoomVerb" GUID="{9711D929-38C9-4209-98B1-C3AF7341C54A}"/>
+					</AuxBusRefs>
+				</Event>
+			</Events>
+			<StateGroups>
+				<StateGroup Id="3991942870" Name="Music" ObjectPath="\States\Default Work Unit\Music" GUID="{04D49800-45BC-42B8-875F-1B17F6E83D75}">
+					<States>
+						<State Id="579523862" Name="Explore" ObjectPath="\States\Default Work Unit\Music\Explore" GUID="{DD9F1E2D-204B-4F9C-B241-8B6DB8C3EAD1}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Music\None" GUID="{64CE85EC-6CF6-443D-8E48-0B954F2658D3}"/>
+						<State Id="1656947812" Name="PlayerDeath" ObjectPath="\States\Default Work Unit\Music\PlayerDeath" GUID="{FAA95573-1EB4-44AA-9AAA-1A8F925E9256}"/>
+						<State Id="1670748270" Name="BossCombat" ObjectPath="\States\Default Work Unit\Music\BossCombat" GUID="{625C3B94-A4FE-4B7F-B10B-0FDE2946F4C2}"/>
+						<State Id="2764240573" Name="Combat" ObjectPath="\States\Default Work Unit\Music\Combat" GUID="{97992ED8-640A-4AFC-960F-0B3C5A7D8C54}"/>
+						<State Id="3111020472" Name="PlayerVictory" ObjectPath="\States\Default Work Unit\Music\PlayerVictory" GUID="{1435AB7E-AC32-4052-80F7-E06A13B308D6}"/>
+						<State Id="3604647259" Name="MainMenu" ObjectPath="\States\Default Work Unit\Music\MainMenu" GUID="{71156013-F77A-4C7D-BC9A-E7455556647A}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{A4CD1C04-A3EF-E55F-1ABF-AF065AD994FE}</FileHash>
+</SoundBanksInfo>

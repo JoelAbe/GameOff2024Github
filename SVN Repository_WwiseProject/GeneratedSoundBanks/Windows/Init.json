@@ -1,0 +1,183 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "150",
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Type": "User",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "{D370E835-66E3-5456-94DB-87284FCAA313}",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk",
+    "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "48620415",
+       "Name": "Have_U_Ever_Been_Outside",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Exteriors\\Have_U_Ever_Been_Outside",
+       "GUID": "{FE29AE8D-FD86-4652-A95D-68D32F5760EC}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "418265525",
+       "Name": "Gentle_Program_Compressor_Minus_14dB_RMS",
+       "ObjectPath": "\\Effects\\Factory Effects\\Compressor\\Gentle_Program_Compressor_Minus_14dB_RMS",
+       "GUID": "{1595E6B0-DD58-4363-A3F0-DF0C96EC7C17}",
+       "LibName": "Wwise Compressor",
+       "LibId": "7077891"
+      },
+      {
+       "Id": "1990128658",
+       "Name": "Room_Medium",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Rooms\\Room_Medium",
+       "GUID": "{F5C06EC1-E4A4-4332-A7D3-A89E2986B74F}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      },
+      {
+       "Id": "2648499661",
+       "Name": "Hall_Medium_Dark",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Halls\\Hall_Medium_Dark",
+       "GUID": "{626B6E38-739B-4689-819F-F81AD3788BDE}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ],
+     "AudioDevices": [
+      {
+       "Id": "2317455096",
+       "Name": "No_Output",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\No_Output",
+       "GUID": "{600B3F13-956A-45E1-9443-BEAE8131C2E5}",
+       "LibName": "No Output",
+       "LibId": "11862023"
+      },
+      {
+       "Id": "3859886410",
+       "Name": "System",
+       "ObjectPath": "\\Audio Devices\\Default Work Unit\\System",
+       "GUID": "{413A199A-C11A-4AB9-A255-94C0B9F00F49}",
+       "LibName": "System",
+       "LibId": "11403271"
+      }
+     ]
+    },
+    "Busses": [
+     {
+      "Id": "3803692087",
+      "Name": "Master Audio Bus",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
+      "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "418265525"
+        }
+       ]
+      }
+     }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "776129380",
+      "Name": "ObservatoryVerb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\ObservatoryVerb",
+      "GUID": "{DCBC1082-4CC1-4512-A8A0-2681D0AAEF67}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "2648499661"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "1749787712",
+      "Name": "SmallRoomVerb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\SmallRoomVerb",
+      "GUID": "{9711D929-38C9-4209-98B1-C3AF7341C54A}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "1990128658"
+        }
+       ]
+      }
+     },
+     {
+      "Id": "2820219057",
+      "Name": "OutsideVerb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\OutsideVerb",
+      "GUID": "{A63C819D-3B77-462F-8806-9BB8BA320D71}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "48620415"
+        }
+       ]
+      }
+     }
+    ],
+    "StateGroups": [
+     {
+      "Id": "3991942870",
+      "Name": "Music",
+      "ObjectPath": "\\States\\Default Work Unit\\Music",
+      "GUID": "{04D49800-45BC-42B8-875F-1B17F6E83D75}",
+      "States": [
+       {
+        "Id": "579523862",
+        "Name": "Explore",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\Explore",
+        "GUID": "{DD9F1E2D-204B-4F9C-B241-8B6DB8C3EAD1}"
+       },
+       {
+        "Id": "748895195",
+        "Name": "None",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\None",
+        "GUID": "{64CE85EC-6CF6-443D-8E48-0B954F2658D3}"
+       },
+       {
+        "Id": "1656947812",
+        "Name": "PlayerDeath",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\PlayerDeath",
+        "GUID": "{FAA95573-1EB4-44AA-9AAA-1A8F925E9256}"
+       },
+       {
+        "Id": "1670748270",
+        "Name": "BossCombat",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\BossCombat",
+        "GUID": "{625C3B94-A4FE-4B7F-B10B-0FDE2946F4C2}"
+       },
+       {
+        "Id": "2764240573",
+        "Name": "Combat",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\Combat",
+        "GUID": "{97992ED8-640A-4AFC-960F-0B3C5A7D8C54}"
+       },
+       {
+        "Id": "3111020472",
+        "Name": "PlayerVictory",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\PlayerVictory",
+        "GUID": "{1435AB7E-AC32-4052-80F7-E06A13B308D6}"
+       },
+       {
+        "Id": "3604647259",
+        "Name": "MainMenu",
+        "ObjectPath": "\\States\\Default Work Unit\\Music\\MainMenu",
+        "GUID": "{71156013-F77A-4C7D-BC9A-E7455556647A}"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5669CCE2-4F2B-5B12-9836-5B81DB757F7A}"
+ }
+}
